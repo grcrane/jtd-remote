@@ -1,35 +1,21 @@
 ---
-title: "About UIL Documentation"
+layout: default
+title: Home
+nav_order: 1
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+permalink: /
 ---
 
-<script>
-jQuery(document).ready(function() {
-  do_classList('#classListDiv');   
-});
-</script>
-<div id="classListDiv"></div>
+# Focus on writing good documentation
+{: .fs-9 }
 
-In a word: **Awesome!**
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+{: .fs-6 .fw-300 }
 
-See the [Home page](/Docs/index.html)
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+---
 
+## Getting started
 
-***Syntax:***
-
-```
-this is a test
-sns
-sksk
-```
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi.
-
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+### Dependencies
