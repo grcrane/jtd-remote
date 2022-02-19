@@ -6,6 +6,8 @@ has_children: true
 permalink: /docs/components
 ---
 
+1. Table of contents
+
 {:toc}
 
 # Components
