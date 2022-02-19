@@ -6,6 +6,8 @@ has_children: true
 permalink: /docs/components
 ---
 
+{:toc}
+
 # Components
 
 ### Global dependancies 
