@@ -39,7 +39,11 @@ layout: table_wrappers
       </svg>
     </symbol>
   </svg>
-
+  <header class="page-header" role="banner">  
+    <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+    <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>   
+  </header>
+  <div class="page-content-wrapper">
   <div class="side-bar">
     <div class="site-header">
       <a href="{{ '/' | absolute_url }}" class="site-title lh-tight">{% include title.html %}</a>
@@ -198,5 +202,6 @@ layout: table_wrappers
       <div class="search-overlay"></div>
     {% endif %}
   </div>
+</div>
 </body>
 </html>
