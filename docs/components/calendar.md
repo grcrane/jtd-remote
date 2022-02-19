@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Components
-nav_order: 3
-has_children: true
-permalink: /docs/components
+title: Calendar
+parent: Components
+nav_order: 5
 ---
 
-# Components
+# Calendar
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
