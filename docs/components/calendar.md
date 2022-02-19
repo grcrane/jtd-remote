@@ -2,7 +2,7 @@
 layout: default
 title: Calendar of Events
 parent: Components
-nav_order: 5
+nav_order: 1
 ---
 
 ### Calendar of Events
