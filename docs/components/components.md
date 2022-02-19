@@ -8,9 +8,12 @@ permalink: /docs/components
 
 # Components
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Global dependancies 
+
+Note that all of the custom functions described here depend on styles and scripts define in the [Site header](/Docs/header_code) and or [Site footer](/Docs/footer_code), which is accessible via Home -> Settings -> Advanced -> Code Injection as:
+
+- jQuery styles and script links
+- [Custom function](/Docs/javascript.html) from UIL Github account
+- [Custom styles](/Docs/styles.html) from UIL Github account
+- Slick plugin styles and script links
+- Lazy Summaries styles and script links in footer. 
