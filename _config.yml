@@ -4,6 +4,7 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
 exclude: []
+mybase: {{baseurl}}/docs
 
 # Aux links for the upper right navigation
 aux_links:

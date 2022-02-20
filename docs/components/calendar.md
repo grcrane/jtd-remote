@@ -44,6 +44,8 @@ None
 - Code block (see above)
 - See: [Calendar spreadsheet data](/jtd-remote/docs/spreadsheets/calendar.html)
 
+<p>mybase={{mybase}}
+  <br>
 <pre>
     site: {{ site | jsonify | escape }}
     page: {{ page | jsonify | escape }}
