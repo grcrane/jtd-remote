@@ -34,13 +34,10 @@ Note that the function call "**build_calendars**" is being passed the number "2"
 | activeTab | 0=All museusm (Default), 1=Ann Arbor Hands On, 2=Leslie Science, 3=Yankee Air Museum, 4=Challenger Learning center |
 | expanded | false=compressed on open, true=expanded on open |
 
-**Where *activeTab* is:**
+**Return Value**
 
-- 0, All museums (or null) - Default
-- 1, Ann Arbor Hands On
-- 2, Leslie Science
-- 3, Yankee Air Museum
-- 4, Challenger Learning Center
+None
+
 
 **Calendar Dependancies**
 - Code block (see above)
