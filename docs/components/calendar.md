@@ -42,4 +42,4 @@ None
 
 **Calendar Dependancies**
 - Code block (see above)
-- See: [Spreadsheet data](/Docs/spreadsheets/calendar.html)
+- See: [Calendar spreadsheet data](/docs/spreadsheets/calendar.html)
