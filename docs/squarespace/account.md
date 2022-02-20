@@ -5,7 +5,7 @@ parent: SquareSpace
 nav_order: 1
 ---
 
-### Account and Billing
+## Account and Billing
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
