@@ -26,6 +26,15 @@ Note that the function call "**build_calendars**" is being passed the number "2"
 
 *build_calendars(selector, activeTab, expanded)*
 
+**Parameters**
+
+| Parameter | Description |
+| :-------- | :---------- |
+| selector  | jQuery selector identification where the resulting html code
+will be generated. |
+| activeTab | 0=All museusm (Default), 1=Ann Arbor Hands On, 2=Leslie Science, 3=Yankee Air Museum, 4=Challenger Learning center |
+| expanded | false=compressed on open, true=expanded on open |
+
 **Where *activeTab* is:**
 
 - 0, All museums (or null) - Default
