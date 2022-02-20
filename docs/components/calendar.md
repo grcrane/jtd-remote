@@ -44,7 +44,7 @@ None
 - Code block (see above)
 - See: [Calendar spreadsheet data](/jtd-remote/docs/spreadsheets/calendar.html)
 
-
+<p>site={{site}}</p><br>
 site.gh_edit_repository={{ site.gh_edit_repository }}<br>
 site.gh_edit_view_mode={{ site.gh_edit_view_mode }}<br>
 sit.gh_edit_branch={{ site.gh_edit_branch }}<br>
