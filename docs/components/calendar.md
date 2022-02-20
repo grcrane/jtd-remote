@@ -43,15 +43,4 @@ None
 **Calendar Dependancies**
 - Code block (see above)
 - See: [Calendar spreadsheet data]({{site.mybase}}/spreadsheets/calendar.html)
-<pre>
-<div id="jekyll-debug"></calendarDiv>
-</pre>
-<script>
-  $(document).ready(function() {
-  var obj = JSON.parse(decodeURIComponent("{{ site | jsonify | uri_escape }}"));
-  var prettyJson = JSON.stringify(obj, null, 4);  // Pretty-printed JSON (indented 4 spaces).
-  //document.getElementById("jekyll-debug").textContent = prettyJson;
-  $('#jekyll-debug').text(prettyJson);
-  })
-</script>
 
