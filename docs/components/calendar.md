@@ -31,8 +31,8 @@ Note that the function call "**build_calendars**" is being passed the number "2"
 | Parameter | Description |
 | :-------- | :---------- |
 | selector  | jQuery selector identification where the resulting html code will be generated. |
-| activeTab | 0=All museusm (Default), 1=Ann Arbor Hands On, 2=Leslie Science, 3=Yankee Air Museum, 4=Challenger Learning center |
-| expanded | false=compressed on open, true=expanded on open |
+| activeTab | <ul><li>0=All museusm (Default)</li><li>1=Ann Arbor Hands On</li><li>2=Leslie Science</li><li>3=Yankee Air Museum</li><li>4=Challenger Learning center</li></ul> |
+| expanded | <ul><li>false=Compress on open</li><li>true=expanded on open</li></ul> |
 
 **Return Value**
 
