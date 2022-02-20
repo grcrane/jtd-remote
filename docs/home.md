@@ -14,4 +14,16 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 ## Getting started
 
-### Dependencies
+## Dependencies
+
+## George handy links and such
+
+**pretty print variables**
+`
+<pre id="jekyll-debug"></pre>
+<script>
+  var obj = JSON.parse(decodeURIComponent("{{ site | jsonify | uri_escape }}"));
+  var prettyJson = JSON.stringify(obj, null, 4);  // Pretty-printed JSON (indented 4 spaces).
+  document.getElementById("jekyll-debug").textContent = prettyJson;
+</script>
+`
