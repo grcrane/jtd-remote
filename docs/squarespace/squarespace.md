@@ -18,7 +18,7 @@ However, SquareSpace does not allow us to have our own database similar to
 Wordpress or Drupal.  This means that most pages presented with SquareSpace 
 are static in nature.  Where needed, we have integrated dynamic content 
 from Google Spreadsheets via JavaScript and jQuery functions.  The functions 
-developed can be found under ["Components"](/components).
+developed can be found under ["Components"](/Docs/components).
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
