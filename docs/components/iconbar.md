@@ -2,7 +2,7 @@
 layout: default
 title: Icon Bar
 parent: Components
-nav_order: 5
+nav_order: 8
 ---
 
 ### Icon Bar

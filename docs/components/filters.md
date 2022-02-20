@@ -2,7 +2,7 @@
 layout: default
 title: Filter Checkboxes
 parent: Components
-nav_order: 12
+nav_order: 6
 ---
 
 ### Filter Checkboxes

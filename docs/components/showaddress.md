@@ -2,7 +2,7 @@
 layout: default
 title: Address Info Box
 parent: Components
-nav_order: 7
+nav_order: 10
 ---
 
 ### Address Info Box

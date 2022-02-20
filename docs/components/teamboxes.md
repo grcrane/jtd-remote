@@ -2,7 +2,7 @@
 layout: default
 title: Team Boxes
 parent: Components
-nav_order: 8
+nav_order: 13
 ---
 
 ### Team Boxes
