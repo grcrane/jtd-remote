@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Overview
+title: Account
 parent: SquareSpace
-nav_order: 2
+nav_order: 1
 ---
 
-### Overview
+### Account and Billing
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
