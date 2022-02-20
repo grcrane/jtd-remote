@@ -20,7 +20,8 @@ $(document).ready(function() {
 </script>
 <div id="calendarDiv"></div>
 ```
-Note that the function call "**build_calendars**" is being passed the number "2", which tells the function to select calendar number 2 (Leslie Science) as the default when opened. 
+By default, the resulting calendars are wrapped in an accordian that is normally compressed 
+when the page is displayed.  
 
 **Syntax:**
 
@@ -41,4 +42,4 @@ None
 
 **Calendar Dependancies**
 - Code block (see above)
-- [Spreadsheet data](/Docs/spreadsheets.html)
+- See: [Spreadsheet data](/Docs/spreadsheets/calendar.html)
