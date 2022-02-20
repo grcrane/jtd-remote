@@ -42,14 +42,4 @@ None
 
 **Calendar Dependancies**
 - Code block (see above)
-- See: [Calendar spreadsheet data](/jtd-remote/docs/spreadsheets/calendar.html)
-
-<p>mybase={{site.mybase}}
-  <br>
-<pre>
-    site: {{ site | jsonify | escape }}
-    page: {{ page | jsonify | escape }}
-    layout: {{ layout | jsonify | escape }}
-    content: {{ content | jsonify | escape }}
-    paginator: {{ paginator | jsonify | escape }}
-</pre>
+- See: [Calendar spreadsheet data]({{site.mybase}}/spreadsheets/calendar.html)
