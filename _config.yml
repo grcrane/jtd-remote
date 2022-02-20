@@ -26,10 +26,3 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 footer_content: "Copyright &copy; 2022 George Crane. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
-
-<pre id="jekyll-debug"></pre>
-<script>
-  var obj = JSON.parse(decodeURIComponent("{{ site | jsonify | uri_escape }}"));
-  var prettyJson = JSON.stringify(obj, null, 4);  // Pretty-printed JSON (indented 4 spaces).
-  document.getElementById("jekyll-debug").textContent = prettyJson;
-</script>
