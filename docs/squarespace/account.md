@@ -2,7 +2,7 @@
 layout: default
 title: Account
 parent: SquareSpace
-nav_order: 1
+nav_order: 2
 ---
 
 # Account and Billing

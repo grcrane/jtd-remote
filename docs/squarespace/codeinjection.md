@@ -2,7 +2,7 @@
 layout: default
 title: Code Injection
 parent: SquareSpace
-nav_order: 2
+nav_order: 3
 ---
 
 # Code Injection
