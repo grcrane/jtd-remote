@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Get Spreadsheet Data
-parent: Functions
+parent: Supporting Functions
 nav_order: 2
 ---
 
