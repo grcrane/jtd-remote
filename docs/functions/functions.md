@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Supporting Functions
-nav_order: 13
+title: Functions
+nav_order: 3
 has_children: true
-parent: Components
-
+permalink: /docs/functions
 ---
 
 # Supporting Functions
