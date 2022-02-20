@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Functions
+title: Supporting Functions
 nav_order: 3
 has_children: true
 permalink: /docs/functions
