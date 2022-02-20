@@ -3,8 +3,8 @@ layout: default
 title: Supporting Functions
 nav_order: 13
 has_children: true
-parent: components
-
+parent: Components
+permalink: /docs/components
 
 ---
 
