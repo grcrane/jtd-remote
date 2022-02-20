@@ -44,11 +44,10 @@ None
 - Code block (see above)
 - See: [Calendar spreadsheet data](/jtd-remote/docs/spreadsheets/calendar.html)
 
-<p>site={{site}}</p><br>
-site.gh_edit_repository={{ site.gh_edit_repository }}<br>
-site.gh_edit_view_mode={{ site.gh_edit_view_mode }}<br>
-sit.gh_edit_branch={{ site.gh_edit_branch }}<br>
-site.gh.edit_source={{ site.gh_edit_source }}<br>
-page.path={{ page.path }}<br>
-site.gh_edit_link_text={{ site.gh_edit_link_text }}<br>
-                  </p>
+<pre>
+    site: {{ site | jsonify | escape }}
+    page: {{ page | jsonify | escape }}
+    layout: {{ layout | jsonify | escape }}
+    content: {{ content | jsonify | escape }}
+    paginator: {{ paginator | jsonify | escape }}
+</pre>
