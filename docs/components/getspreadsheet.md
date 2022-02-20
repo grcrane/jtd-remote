@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Get Spreadsheet
-parent: functions
+parent: Supporting Functions
 grand_parent: Components
-permalink: /docs/components/functions
 nav_order: 5
 ---
 
