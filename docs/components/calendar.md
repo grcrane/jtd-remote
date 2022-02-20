@@ -42,4 +42,4 @@ None
 
 **Calendar Dependancies**
 - Code block (see above)
-- See: [Calendar spreadsheet data](/docs/spreadsheets/calendar.html)
+- See: [Calendar spreadsheet data](/jtd-remote/docs/spreadsheets/calendar.html)
