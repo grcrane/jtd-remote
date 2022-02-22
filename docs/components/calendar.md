@@ -28,6 +28,14 @@ $(document).ready(function() {
 By default, the resulting calendars are wrapped in an accordian that is normally compressed 
 when the page is displayed.  
 
+**Overrides:**
+
+You can dynamically override *ActiveTab* by adding a parameter to the linking url as:
+
+```
+?tab=n  (where n is a number from 0-4, see ActiveTab below)
+```
+
 **Usage:**
 
 *build_calendars(Selector, Activetab, Expanded)*
