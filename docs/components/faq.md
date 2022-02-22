@@ -58,7 +58,7 @@ None
     </tr>
     <tr class="w3-white">
       <td><em>Activetab</em></td>
-      <td>Optional.<br>
+      <td>Optional.
       	<ul>
       		<li>1=Ann Arbor Hands On (Default)</li>
       		<li>2=Leslie Science</li>
@@ -69,7 +69,7 @@ None
     </tr>
     <tr>
       <td><em>Single</em></td>
-      <td>Optional.<br>
+      <td>Optional.
         <ul>
           <li>True=Show only the active museum tab.</li>
           <li>False=All museums (Default)</li>
@@ -78,7 +78,7 @@ None
     </tr>
     <tr>
       <td><em>OpenFirst</em></td>
-      <td>Optional.<br>
+      <td>Optional.
         <ul>
           <li>True=Automatically open the first faq question for the selected museum.</li>
           <li>False=All faq questions closed on initial open. (Default)</li>
@@ -88,7 +88,7 @@ None
 
     <tr>
       <td><em>Collapasble</em></td>
-      <td>Optional.<br>
+      <td>Optional.
         <ul>
           <li>Frue=Can be collapsed or expanded (Default)</li>
           <li>False=Not collapsable</li><li>true=Can be collapsed or expanded (Default)</li>
@@ -99,6 +99,7 @@ None
     <tr>
       <td><em>Collapsed</em></td>
       <td>Optional.<br>
+      Collapsable must be set to true, otherwise this paramter is ignored.
         <ul>
           <li>True=Initially collapsed</li>
           <li>False=Initially expanded (default)</li><li>true=Initially collapsed</li>
