@@ -15,36 +15,19 @@ The frequently asked questions block is emplimented by adding a code block to th
 ```
 <script>
 $( document ).ready(function() { 
-  // selector, activeTab, single, openfirst, collapsable, collapsed 
+  // selector, ActiveTab, Single, OpenFirst, Collapsable, Collapsed 
   do_faqs2('#faq_container',2,false,true,true,false);
 });
 </script>
 <div id="faq_container"></div>
 ```
+*Note:* This example will place the resulting html code in the #faq_container selector (Selector).  The second tab (ActiveTab) will be selected (Leslie Science).  Since Single is set as false, all museum tabs will be visible.  If Single was set to true then only Leslie Science would be showing.  OpenFirst is set to true, which says that the first question will be automatically open on the initial display (unless on mobile). Collapsable is set to true, which says to add an expand/collapse toggle link above the tabs.  Collapsed being false, says that the tabs will be initially expanded when page is first visited.  
 
-**Syntax:**
+**Usage:**
 
 *do_faqs2(Selector, Activetab, Single, OpenFirst, Collapsable, Collapsed)*
 
 **Parameters:**
-
-| Parameter | Description |
-| :-------- | :---------- |
-| *Selector*  | Required.<br>jQuery selector identification where the resulting html code will be generated. |
-| *Activetab* |Optional.<br>{::nomarkdown}<ul><li>1=Ann Arbor Hands On (Default)</li><li>2=Leslie Science</li><li>3=Yankee Air Museum</li><li>4=Challenger Learning center</li></ul>{:/}|
-| *Single* |Optional.<br>{::nomarkdown}<ul><li>True=Show only the active museum tab.</li><li>False=All museums (Default)</li></ul>{:/}|
-| *OpenFirst* |Optional.<br>{::nomarkdown}<ul><li>True=Automatically open the first faq question for the selected museum.</li><li>False=All faq questions closed on initial open.</li></ul>{:/}|
-| *Collapasble* |Optional.<br>{::nomarkdown}<ul><li>false=Not collapsable</li><li>true=Can be collapsed or expanded (Default)</li></ul>{:/}If true you will see a link above the tabs to open/close|
-| *Collapsed* |Optional.<br>{::nomarkdown}<ul><li>false=Initially expanded (default)</li><li>true=Initially collapsed</li></ul>{:/}Collapsable must be set to true, otherwise this paramter is ignored.|
-
-**Return Value:**
-
-None
-
-
-**Calendar Dependancies**
-- Code block (see above)
-- See: [FAQ's spreadsheet data]({{site.mybase}}/spreadsheets/faq.html)
 
 <table class="ws-table-all notranslate"> 
   <tbody>
@@ -57,15 +40,15 @@ None
       <td>Required.<br>jQuery selector identification where the resulting html code will be generated.</td>
     </tr>
     <tr class="w3-white">
-      <td><em>Activetab</em></td>
+      <td><em>ActiveTab</em></td>
       <td>Optional.
-      	<ul>
-      		<li>1=Ann Arbor Hands On (Default)</li>
-      		<li>2=Leslie Science</li>
-      		<li>3=Yankee Air Museum</li>
-      		<li>4=Challenger Learning center</li>
-      	</ul>
-	   </td>
+        <ul>
+          <li>1=Ann Arbor Hands On (Default)</li>
+          <li>2=Leslie Science</li>
+          <li>3=Yankee Air Museum</li>
+          <li>4=Challenger Learning center</li>
+        </ul>
+     </td>
     </tr>
     <tr>
       <td><em>Single</em></td>
@@ -109,4 +92,13 @@ None
 
   </tbody>
 </table>
+
+**Return Value:**
+
+None
+
+
+**Calendar Dependancies**
+- Code block (see above)
+- See: [FAQ's spreadsheet data]({{site.mybase}}/spreadsheets/faq.html)
 
