@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Calendar of Events
+title: Calendars
 parent: Components
 nav_order: 2
 ---
@@ -20,7 +20,7 @@ $(document).ready(function() {
 })
 </script>
 <div id="calendarDiv"></div>
-```
+``` 
 By default, the resulting calendars are wrapped in an accordian that is normally compressed 
 when the page is displayed.  
 

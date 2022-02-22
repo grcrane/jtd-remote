@@ -2,7 +2,7 @@
 layout: default
 title: Donor Wall
 parent: Components
-nav_order: 4
+nav_order: 6
 ---
 
 ### Donor Wall

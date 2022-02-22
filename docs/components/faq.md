@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frequently Asked Questions
+title: Faqs
 parent: Components
 nav_order: 3
 ---
