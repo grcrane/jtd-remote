@@ -29,6 +29,13 @@ $( document ).ready(function() {
 ```
 *Note:* This example will place the resulting html code in the #faq_container selector (Selector).  The second tab (ActiveTab) will be selected (Leslie Science).  Since Single is set as false, all museum tabs will be visible.  If Single was set to true then only Leslie Science would be showing.  OpenFirst is set to true, which says that the first question will be automatically open on the initial display (unless on mobile). Collapsable is set to true, which says to add an expand/collapse toggle link above the tabs.  Collapsed being false, says that the tabs will be initially expanded when page is first visited.  
 
+**Overrides**
+You can dynamically override *ActiveTab* by adding a parameter to the linking url as:
+
+```
+?tab=n  (where n is a number from 2-4)
+```
+
 **Usage:**
 
 *do_faqs2(Selector, Activetab, Single, OpenFirst, Collapsable, Collapsed)*
