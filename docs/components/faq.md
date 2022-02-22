@@ -34,7 +34,7 @@ $( document ).ready(function() {
 | *Activetab* |Optional.<br>{::nomarkdown}<ul><li>1=Ann Arbor Hands On (Default)</li><li>2=Leslie Science</li><li>3=Yankee Air Museum</li><li>4=Challenger Learning center</li></ul>{:/}|
 | *Single* |Optional.<br>{::nomarkdown}<ul><li>True=Show only the active museum tab.</li><li>False=All museums (Default)</li></ul>{:/}|
 | *OpenFirst* |Optional.<br>{::nomarkdown}<ul><li>True=Automatically open the first faq question for the selected museum.</li><li>False=All faq questions closed on initial open.</li></ul>{:/}|
-| *Collapable* |Optional.<br>{::nomarkdown}<ul><li>false=Not collapsable</li><li>true=Can be collapsed (Default)</li></ul>{:/}<br>If true you will see a link above the tabs to open/close|
+| *Collapable* |Optional.<br>{::nomarkdown}<ul><li>false=Not collapsable</li><li>true=Can be collapsed (Default)</li></ul>{:/}If true you will see a link above the tabs to open/close|
 | *Collapsed* |Optional.<br>{::nomarkdown}<ul><li>false=Expanded</li><li>true=Can be collapsed (Default)</li></ul>{:/}|
 
 **Return Value:**
