@@ -48,6 +48,7 @@ None
 
 <table class="ws-table-all notranslate"> 
   <tbody>
+  	<tr></tr>
     <tr>
      <td style="width:120px">Parameter</td>
      <td>Description</td>
