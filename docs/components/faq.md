@@ -102,7 +102,7 @@ None
       Collapsable must be set to true, otherwise this paramter is ignored.
         <ul>
           <li>True=Initially collapsed</li>
-          <li>False=Initially expanded (default)</li><li>true=Initially collapsed</li>
+          <li>False=Initially expanded (default)</li>
         </ul>
       </td>
     </tr>
