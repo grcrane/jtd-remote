@@ -44,5 +44,5 @@ None
 
 **Calendar Dependancies**
 - Code block (see above)
-- See: [FAQ's spreadsheet data]({{site.mybase}}/spreadsheets/faqs.html)
+- See: [FAQ's spreadsheet data]({{site.mybase}}/spreadsheets/faq.html)
 
