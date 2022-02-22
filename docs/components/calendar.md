@@ -15,6 +15,7 @@ The calendar of events block is emplemented by adding a code block to the page w
 ```
 <script>
 $(document).ready(function() {
+  // Selector, ActiveTab, Expanded
   build_calendars('#calendarDiv',1, false);  
 })
 </script>
@@ -23,17 +24,46 @@ $(document).ready(function() {
 By default, the resulting calendars are wrapped in an accordian that is normally compressed 
 when the page is displayed.  
 
-**Syntax:**
+**Usage:**
 
 *build_calendars(Selector, Activetab, Expanded)*
 
 **Parameters:**
 
-| Parameter | Description |
-| :-------- | :---------- |
-| *Selector*  | Required.<br>jQuery selector identification where the resulting html code will be generated. |
-| *Activetab* |Optional.<br>{::nomarkdown}<ul><li>0=All museums (Default)</li><li>1=Ann Arbor Hands On</li><li>2=Leslie Science</li><li>3=Yankee Air Museum</li><li>4=Challenger Learning center</li></ul>{:/}|
-| *Expanded* |Optional.<br>{::nomarkdown}<ul><li>false=Compress on open (Default)</li><li>true=expanded on open</li></ul>{:/}|
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+     <td style="width:120px">Parameter</td>
+     <td>Description</td>
+    </tr>
+    <tr>
+      <td><em>Selector</em></td>
+      <td>Required.<br>jQuery selector identification where the resulting html code will be generated.</td>
+    </tr>
+    <tr class="w3-white">
+      <td><em>ActiveTab</em></td>
+      <td>Optional.
+        <ul>
+          <li>0=All museums (Default)</li>
+          <li>1=Ann Arbor Hands On</li>
+          <li>2=Leslie Science</li>
+          <li>3=Yankee Air Museum</li>
+          <li>4=Challenger Learning center</li>
+        </ul>
+     </td>
+    </tr>
+    <tr>
+      <td><em>Expanded</em></td>
+      <td>Optional.
+        <ul>
+          <li>True=Initially expanded (Default)</li>
+          <li>False=Initially collapsed</li>
+        </ul>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
 
 **Return Value:**
 
