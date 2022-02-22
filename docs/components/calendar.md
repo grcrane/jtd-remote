@@ -9,7 +9,11 @@ nav_order: 2
 
 The calendar custom function grabs data from a Google spreadsheet (calendar) and embeds Google calendars within an iframe on the page.  It uses the spreadsheet information to get the associated Google ID, iframe embed code, museum and title.
 
-The calendar of events block is emplemented by adding a code block to the page with the following:
+***Cook book***
+- Edit the page
+- Click a "+" sign where you want to insert 
+- Paste the following code block
+- Adust parameters as needed
 
 **Code block for calendar of events**
 ```
