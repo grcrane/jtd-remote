@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Filter Checkboxes
+title: Filters
 parent: Components
 nav_order: 6
 ---
