@@ -53,16 +53,28 @@ None
      <td>Description</td>
     </tr>
     <tr>
-      <td><em>index</em></td>
-      <td>Required.<br>The position to add/remove items.<br>Negative value defines the position from the end of the array.</td>
+      <td><em>Selector</em></td>
+      <td>Required.<br>jQuery selector identification where the resulting html code will be generated.</td>
     </tr>
     <tr class="w3-white">
-      <td><em>howmany</em></td>
-      <td>Optional.<br>Number of items to be removed.</td>
+      <td><em>Activetab</em></td>
+      <td>Optional.<br>
+      	<ul>
+      		<li>1=Ann Arbor Hands On (Default)</li>
+      		<li>2=Leslie Science</li>
+      		<li>3=Yankee Air Museum</li>
+      		<li>4=Challenger Learning center</li>
+      	</ul>
+	   </td>
     </tr>
       <tr>
-      <td><em>item1</em>, ..., <em>itemX</em></td>
-      <td>Optional.<br>New elements(s) to be added.</td>
+      <td><em>Single</em></td>
+      <td>Optional.<br>
+      	<ul>
+  			<li>True=Show only the active museum tab.</li>
+  			<li>False=All museums (Default)</li>
+  		</ul>
+ 	   </td>
     </tr>
   </tbody>
 </table>
