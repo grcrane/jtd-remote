@@ -7,11 +7,17 @@ nav_order: 3
 
 ### Frequently Asked Questions
 
-The calendar custom function grabs data from a Google spreadsheet (calendar) and embeds Google calendars within an iframe on the page.  It uses the spreadsheet information to get the associated Google ID, iframe embed code, museum and title.
+The Frequently Asked Questions custom function grabs data from a Google spreadsheet (faqs) and displays the questions/answers in an accordian style list.  Each museum will have a separate tab, and separate questions based on data from the spreadsheet. 
 
 The frequently asked questions block is emplimented by adding a code block to the page with the following:
 
-**Code block for calendar of events**
+***Cook book***
+- Edit the page
+- Click a "+" sign where you want to insert 
+- Paste the following code block
+- Adust parameters as needed
+
+**Code block for frequently asked questions**
 ```
 <script>
 $( document ).ready(function() { 
