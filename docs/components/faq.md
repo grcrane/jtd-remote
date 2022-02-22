@@ -46,3 +46,24 @@ None
 - Code block (see above)
 - See: [FAQ's spreadsheet data]({{site.mybase}}/spreadsheets/faq.html)
 
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr>
+     <td style="width:120px">Parameter</td>
+     <td>Description</td>
+    </tr>
+    <tr>
+      <td><em>index</em></td>
+      <td>Required.<br>The position to add/remove items.<br>Negative value defines the position from the end of the array.</td>
+    </tr>
+    <tr class="w3-white">
+      <td><em>howmany</em></td>
+      <td>Optional.<br>Number of items to be removed.</td>
+    </tr>
+      <tr>
+      <td><em>item1</em>, ..., <em>itemX</em></td>
+      <td>Optional.<br>New elements(s) to be added.</td>
+    </tr>
+  </tbody>
+</table>
+
