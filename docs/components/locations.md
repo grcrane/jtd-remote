@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Location Maps
+title: Maps
 parent: Components
 nav_order: 4
 ---
