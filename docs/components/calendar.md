@@ -99,6 +99,9 @@ None
 
 
 **Calendar Dependancies**
+- function **build_calendar**
+  - Located in **AAHOM** GitHub repository **UIL** in file **unity.js**
+  - [https://github.com/AAHOM/UIL](https://github.com/AAHOM/UIL)
 - Code block (see above)
 - See: [Calendar spreadsheet data]({{site.mybase}}/spreadsheets/calendar.html)
 
