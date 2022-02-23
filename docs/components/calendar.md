@@ -99,7 +99,7 @@ None
 
 
 **Calendar Dependancies**
-- function **build_calendar**
+- **function build_calendar**
   - Located in **AAHOM** GitHub repository **UIL** in file **unity.js**
   - [https://github.com/AAHOM/UIL](https://github.com/AAHOM/UIL){:target="_blank"}
 - Code block (see above)
