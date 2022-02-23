@@ -18,15 +18,14 @@ The calendar custom function grabs data from a Google spreadsheet (calendar) and
 **Code block for calendar of events**
 ```
 <script>
-$(document).ready(function() {
-  // Selector, ActiveTab, Expanded
-  build_calendars('#calendarDiv',1, false);  
-})
+<script>
+$( document ).ready(function() { 
+  // selector, activeTab, single, collapsable, collapsed 
+  build_calendars('#calendarContainer',1,false, true, false);
+});
 </script>
-<div id="calendarDiv"></div>
+<div id="calendarContainer"></div>
 ``` 
-By default, the resulting calendars are wrapped in an accordian that is normally compressed 
-when the page is displayed.  
 
 **Overrides:**
 
@@ -65,11 +64,30 @@ You can dynamically override *ActiveTab* by adding a parameter to the linking ur
      </td>
     </tr>
     <tr>
-      <td><em>Expanded</em></td>
+      <td><em>Single</em></td>
       <td>Optional.
         <ul>
-          <li>True=Initially expanded (Default)</li>
-          <li>False=Initially collapsed</li>
+          <li>True=Show only the active museum tab.</li>
+          <li>False=All museums (Default)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><em>Collapasble</em></td>
+      <td>Optional.
+        <ul>
+          <li>Frue=Can be collapsed or expanded (Default)</li>
+          <li>False=Not collapsable</li><li>true=Can be collapsed or expanded (Default)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><em>Collapsed</em></td>
+      <td>Optional.<br>
+      Collapsable must be set to true, otherwise this paramter is ignored.
+        <ul>
+          <li>True=Initially collapsed</li>
+          <li>False=Initially expanded (default)</li>
         </ul>
       </td>
     </tr>
