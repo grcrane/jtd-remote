@@ -18,7 +18,6 @@ The calendar custom function grabs data from a Google spreadsheet (calendar) and
 **Code block for calendar of events**
 ```
 <script>
-<script>
 $( document ).ready(function() { 
   // selector, activeTab, single, collapsable, collapsed 
   build_calendars('#calendarContainer',1,false, true, false);
