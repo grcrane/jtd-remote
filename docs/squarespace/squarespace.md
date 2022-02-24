@@ -16,6 +16,7 @@ permalink: /docs/squarespace
 {:toc}
 
 # Overview
+{: .no_toc }
 
 Squarespace is an all-in-one content management system, or CMS.  We have 
 picked SquareSpace as the hosting and website service provider for the Unity 
