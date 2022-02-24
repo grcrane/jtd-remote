@@ -104,6 +104,13 @@ You can dynamically override *ActiveTab* by adding a parameter to the linking ur
         </ul>
       </td>
     </tr>
+    <tr>
+      <td><em>Title</em></td>
+      <td>Optional.<br>
+      Title line at top, default is "View Location Maps"
+      </td>
+    </tr>
+
 
   </tbody>
 </table>
