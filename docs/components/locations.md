@@ -7,7 +7,7 @@ nav_order: 3
 
 ### Map Locations
 
-The map locations custom function grabs data from a Google spreadsheet (Map Locations) and embeds Google maps within an iframe on the page.  It uses the spreadsheet information to get the associated Google ID, iframe embed code, museum and title.
+The map locations custom function grabs data from a Google spreadsheet (Map Locations) and embeds Google maps within tabbed list on the page.  It uses the spreadsheet information to get the associated Google ID, iframe embed code, museum and title.
 
 ***Cook book***
 - Edit the page
@@ -103,7 +103,6 @@ You can dynamically override *ActiveTab* by adding a parameter to the linking ur
 **Return Value:**
 
 None
-
 
 **Maps Dependancies**
 - **function do_maps**
