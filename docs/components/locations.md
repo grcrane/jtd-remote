@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Map Locations
+title: Map Locations <span class="new">(New)</span>
 parent: Components
 nav_order: 3
 ---
