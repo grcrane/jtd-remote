@@ -15,3 +15,5 @@ Note that all of the custom functions described here depend on styles and script
 - [Custom styles](/Docs/styles.html) from UIL Github account
 - Slick plugin styles and script links
 - Lazy Summaries styles and script links in footer. 
+
+<a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a>
