@@ -14,6 +14,7 @@ The frequently asked questions block is emplimented by adding a code block to th
 ***Cook book***
 - Edit the page
 - Click a "+" sign where you want to insert 
+- Select "Code"
 - Paste the following code block
 - Adust parameters as needed
 
