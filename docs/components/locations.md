@@ -55,7 +55,6 @@ You can dynamically override *ActiveTab* by adding a parameter to the linking ur
       <td><em>ActiveTab</em></td>
       <td>Optional.
         <ul>
-          <li>0=All museums (Default)</li>
           <li>1=Ann Arbor Hands On</li>
           <li>2=Leslie Science</li>
           <li>3=Yankee Air Museum</li>
