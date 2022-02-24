@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Faqs <span class="new">(New)</span>
+title: Faqs <span class="new">(Updated)</span>
 parent: Components
 nav_order: 3
 ---
