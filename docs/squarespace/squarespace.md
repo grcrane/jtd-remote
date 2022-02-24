@@ -6,12 +6,6 @@ has_children: true
 permalink: /docs/squarespace
 ---
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 # Overview
 
 Squarespace is an all-in-one content management system, or CMS.  We have 
