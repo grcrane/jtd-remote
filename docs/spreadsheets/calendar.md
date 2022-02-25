@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Calendar Data
+title: Calendar
 parent: Spreadsheets
 nav_order: 2
 ---

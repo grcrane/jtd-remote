@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frequently Asked Question
+title: Faqs
 parent: Spreadsheets
 nav_order: 3
 ---
