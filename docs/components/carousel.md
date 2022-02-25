@@ -13,12 +13,12 @@ The ***createCarousel*** requires that at least one summary carousel is defined 
 - Edit the page
 - Click the "+" sign where you want the carousel to appear
 - Select **Summary Block**
-- Under *content* 
+- Under ***content*** 
 	- select the appropriate blog to display
 	- Primary Metadata: None
 	- Secondary Metadata: None
 	- Filter Items: If needed
-- Under *Design* 
+- Under ***Design*** 
 	- Select Carousel
 	- Number of items: 30 (max)
 	- Items per Row: 3 
@@ -32,9 +32,9 @@ The ***createCarousel*** requires that at least one summary carousel is defined 
 	- Set Read More Link Text: Read More
 	- Metadata Position: Below Content
 	- Size and Spacing: Column Width=280px, gutter width=60px, Use Columns Number=Off
-- Under *Lazy Settings*
+- Under ***Lazy Settings***
 	- Ignore for now, leave off
-- Under *Additional*
+- Under ***Additional***
 	- Ignore for now, leave off
 
 Once the carousel summary block has been defined, insert a code block to 
