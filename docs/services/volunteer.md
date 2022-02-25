@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volunteer
+title: Volunteers
 parent: Services
 nav_order: 5
 ---
