@@ -2,7 +2,7 @@
 layout: default
 title: GitHub
 parent: Services
-nav_order: 4
+nav_order: 1
 ---
 
 ### GitHub Software Repository and Documentation	

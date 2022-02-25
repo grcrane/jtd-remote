@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Volunteer Software
+title: Volunteer
 parent: Services
-nav_order: 4
+nav_order: 5
 ---
 
 ### Volunteer Software Options
