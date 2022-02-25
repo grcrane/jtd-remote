@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Team Members Data
+title: Team Members <span class="new">(Updated)</span>
 parent: Spreadsheets
 nav_order: 4
 ---
