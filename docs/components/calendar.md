@@ -76,7 +76,7 @@ You can dynamically override *ActiveTab* by adding a parameter to the linking ur
       <td><em>Collapasble</em></td>
       <td>Optional.
         <ul>
-          <li>Frue=Can be collapsed or expanded (Default)</li>
+          <li>True=Can be collapsed or expanded (Default)</li>
           <li>False=Not collapsable</li><li>true=Can be collapsed or expanded (Default)</li>
         </ul>
       </td>
