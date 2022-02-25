@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Map Locations
-parent: spreadsheets
+parent: Spreadsheets
 nav_order: 2
 ---
 
