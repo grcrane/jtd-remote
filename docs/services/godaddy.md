@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GoDaddy
-parent: Services
+parent: Outside Services
 nav_order: 2
 ---
 
