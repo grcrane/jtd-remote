@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Team Members
+title: Team Members <span class="new">(Updated)</span>
 parent: Components
 nav_order: 4
 ---
