@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Versai
-parent: Services
+parent: Outside Services
 nav_order: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Services
+title: Outside Services
 nav_order: 4
 has_children: true
 permalink: /docs/services

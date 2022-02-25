@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jotform
-parent: Services
+parent: Outside Services
 nav_order: 3
 ---
 

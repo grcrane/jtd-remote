@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GitHub
-parent: Services
+parent: Outside Services
 nav_order: 1
 ---
 
