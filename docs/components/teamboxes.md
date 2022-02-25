@@ -57,10 +57,11 @@ None
 
 
 **Team Members Dependancies**
-- **function team_members**
-- **addMyModal**
-- **teamCardResize**
-  - Located in **AAHOM** GitHub repository **UIL** in file **unity.js**
+- **Function**
+ -  team_members
+  - addMyModal
+  - teamCardResize
+  - All functions located in **AAHOM** GitHub repository **UIL** in file **unity.js**
   - See: [https://github.com/AAHOM/UIL/blob/main/unity.js](https://github.com/AAHOM/UIL/blob/main/unity.js){:target="_blank"}
 - Code block (see above)
 - See: [Team Members spreadsheet data]({{site.mybase}}/spreadsheets/teamboxes.html)
