@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calendars <span class="new">(Updated)</span>
-parent: Components
+parent: Components 
 nav_order: 2
 ---
 

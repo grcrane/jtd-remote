@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Carousel
+title: Carousel  <span class="new">(Updated)</span>
 parent: Components
 nav_order: 7
 ---
