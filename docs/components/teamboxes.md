@@ -20,6 +20,7 @@ The team_members custom function grabs data from a Google spreadsheet (teams) an
 ```
 <script>
 $( document ).ready(function() {
+    // SelectorID
     do_team_members('#teamContainer'); 
 });
 </script>
