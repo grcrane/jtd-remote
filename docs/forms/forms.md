@@ -10,4 +10,4 @@ permalink: /docs/forms
 
 Supporting JotForms used for customer input.
 
-See: [Outside Service Jotform]({{site.mybase}}/services/jotform.html))
+See: [Outside Service Jotform]({{site.mybase}}/services/jotform.html)
