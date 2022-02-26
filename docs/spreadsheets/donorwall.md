@@ -44,3 +44,6 @@ Data needed for donor wall display.
 
 **Donor Wall Dependancies**
 - See: [Donor Wall component]({{site.mybase}}/components/donorwall.html)
+
+**Spreadsheet**
+See: [Donor Wall Spreadsheet](https://docs.google.com/spreadsheets/d/1Euo2kWx3lMC60XIAE7oUgXjEjoXkktFU3cW3YpZKLKw/edit#gid=176165326){:target="_blank"}
