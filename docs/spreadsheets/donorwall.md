@@ -15,7 +15,7 @@ Data needed for donor wall display
   <tbody>
     <tr class="tableTop">
 		<td style="width:20px">Column</td>
-		<td style="width:120px">Parameter</td>
+		<td style="width:120px">Label</td>
 		<td>Description</td>
     </tr>
     <tr>
