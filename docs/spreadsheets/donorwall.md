@@ -14,7 +14,7 @@ Data needed for donor wall display
 <table class="ws-table-all notranslate"> 
   <tbody>
     <tr class="tableTop">
-		<td style="width:30px">Column</td>
+		<td style="width:20px">Column</td>
 		<td style="width:120px">Parameter</td>
 		<td>Description</td>
     </tr>
