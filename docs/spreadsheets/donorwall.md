@@ -7,7 +7,7 @@ nav_order: 4
 
 ### Donor Wall
 
-Data needed for donor wall display, testing 
+Data needed for donor wall display.
 
 **Fields**
 
