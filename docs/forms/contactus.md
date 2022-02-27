@@ -95,6 +95,22 @@ Please take a few minutes to answer a few questions.  Your feedback is valuable 
   </tbody>
 </table>
 
+***Events***
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+     <td>Event</td>
+     <td>Action</td>
+     <td>Description</td>
+    </tr>
+    <tr>
+      <td>On Submit</td>
+      <td>Send email</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 **Partical Screenshot**
 
