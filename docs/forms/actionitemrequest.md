@@ -6,7 +6,7 @@ grand_parent: Forms
 nav_order: 1
 ---
 
-### Action Item Requestsx 
+### Action Item Requests
 
 this is a new line
 
@@ -17,7 +17,11 @@ this is a new line
      <td>Description</td>
     </tr>
     <tr>
-      <td>Reference</td>
+      <td>Purpose</td>
+      <td>Form to request donated items.</td>
+    </tr>
+    <tr>
+      <td>From Website</td>
       <td>AAHOM Website</td>
     </tr>
     <tr>
@@ -31,6 +35,10 @@ this is a new line
     <tr>
       <td>Pages</td>
       <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>JotForm URL</td>
+      <td>NA</td>
     </tr>
     
   </tbody>
