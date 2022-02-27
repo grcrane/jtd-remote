@@ -25,6 +25,10 @@ you a special PDF file that includes four admission passes to the Museum. Please
 print out the PDF for your fundraiser event. Only printed tickets can be redeemed 
 at the admissions desk.
 
+**Screenshot**
+
+![Alt Action Item Request Alt](/images/action_item_request.jpg "Action Item Request")
+
 **Form on AAHOM website**
 
 [https://www.aahom.org/form/auction-item-requests](https://www.aahom.org/form/auction-item-requests){:target="_blank"}
