@@ -129,6 +129,24 @@ Form to request donated items.
 </table>
 
 
+***Events***
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+     <td>Event</td>
+     <td>Action</td>
+     <td>Description</td>
+    </tr>
+    <tr>
+      <td>On Submit</td>
+      <td>Send email</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 **Partical Screenshot**
 
 ![Alt Action Item Request](../../assets/images/action_item_request.jpg "Action Item Request")
