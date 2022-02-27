@@ -51,18 +51,62 @@ Form to request donated items.
   <tbody>
     <tr class="tableTop">
      <td style="width:120px">Field</td>
+     <td style="width:30px">Required</td>
      <td>Description</td>
     </tr>
     <tr>
-      <td>Field one</td>
+      <td>Name of School</td>
+      <td>Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td>Field two</td>
+      <td>Tax ID Number</td>
+      <td>Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td>field three</td>
+      <td>Address</td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>City</td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>State</td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Zip Code</td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Phone</td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Email</td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Date of Event</td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Location of Event</td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Brief explaination</td>
+      <td>Yes</td>
       <td></td>
     </tr>
   </tbody>
