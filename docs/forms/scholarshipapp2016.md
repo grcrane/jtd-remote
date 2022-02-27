@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Scholarship Application - 2016
-parent: Forms
+parent: AAHOM Forms
+grand_parent: Forms
 nav_order: 6
 ---
 
