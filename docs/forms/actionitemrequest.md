@@ -8,6 +8,7 @@ nav_order: 1
 
 ### Action Item Requests
 
+***Intro message***
 
 The Museum is proud to give back to the community that supports our education mission by 
 donating passes to schools and parent teacher organizations.  Please note that we 
