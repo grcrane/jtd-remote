@@ -39,6 +39,10 @@ Form to request donated items.
       <td>Unknown</td>
     </tr>
     <tr>
+      <td>URL</td>
+      <td>[https://www.aahom.org/form/auction-item-requests](https://www.aahom.org/form/auction-item-requests){:target="_blank"}</td>
+    </tr>
+    <tr>
       <td>JotForm URL</td>
       <td>NA</td>
     </tr>
@@ -50,7 +54,7 @@ Form to request donated items.
 <table class="ws-table-all notranslate"> 
   <tbody>
     <tr class="tableTop">
-     <td style="width:120px">Field</td>
+     <td style="width:150px">Field</td>
      <td style="width:30px">Required</td>
      <td>Description</td>
     </tr>
