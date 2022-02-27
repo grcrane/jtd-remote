@@ -40,7 +40,7 @@ Form to request donated items.
     </tr>
     <tr>
       <td>URL</td>
-      <td>[https://www.aahom.org/form/auction-item-requests](https://www.aahom.org/form/auction-item-requests){:target="_blank"}</td>
+      <td><a href="https://www.aahom.org/form/auction-item-requests" target="_blank">https://www.aahom.org/form/auction-item-requests</a></td>
     </tr>
     <tr>
       <td>JotForm URL</td>
