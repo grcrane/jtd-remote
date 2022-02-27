@@ -13,8 +13,8 @@ nav_order: 1
 
 Please complete the following form to request an outreach program.
 
-    Once you've completed the form, a LSNC representative will call you to confirm date, time and program availability. Requests are not guaranteed until you speak with a LSNC representative.
-    For more information, please contact our Main Office at 734-997-1553. 
+Once you've completed the form, a LSNC representative will call you to confirm date, time and program availability. Requests are not guaranteed until you speak with a LSNC representative.
+For more information, please contact our Main Office at 734-997-1553. 
 
 **Form on Leslie website**
 
