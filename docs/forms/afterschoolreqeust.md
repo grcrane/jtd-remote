@@ -8,7 +8,7 @@ nav_order: 1
 
 ### After School Request Form
 
-<p>
+<br>
 ***Intro message***
 
 Please complete the following form to request an outreach program.
