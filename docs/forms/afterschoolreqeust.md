@@ -1,6 +1,6 @@
 ---
 layout: default
-title: After School Request Form
+title: After School
 parent: Leslie Forms
 grand_parent: Forms
 nav_order: 1
