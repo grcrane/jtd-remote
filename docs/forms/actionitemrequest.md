@@ -13,7 +13,7 @@ this is a new line
 <table class="ws-table-all notranslate"> 
   <tbody>
     <tr class="tableTop">
-     <td style="width:120px">Item</td>
+     <td style="width:120px">Reference</td>
      <td>Description</td>
     </tr>
     <tr>
