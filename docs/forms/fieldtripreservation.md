@@ -8,6 +8,8 @@ nav_order: 5
 
 ### Field Trip Reservation Form
 
+<br>
+***Intro message***
 
 Fill out the form below to start your registration for a Field Trip to the Ann Arbor Hands-On Museum. Online registration for Outreach and Distance Learning programs is coming soon.
 

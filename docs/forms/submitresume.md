@@ -8,6 +8,8 @@ nav_order: 9
 
 ### Submit Cover Letter and Resume
 
+<br>
+***Intro message***
 
 Groups may pre-order Science-to-Go bags that contain souvenirs, cool science items and fun facts about the items in the bag.
 

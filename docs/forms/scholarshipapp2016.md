@@ -8,6 +8,8 @@ nav_order: 6
 
 ### Scholarship Application
 
+<br>
+***Intro message***
 
 Experience our Summer 2016 program, “The What If…? World” and explore our over 250 interactive exhibits with this exclusive scholarship, just for summer enrichment programs!
 

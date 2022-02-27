@@ -8,6 +8,8 @@ nav_order: 2
 
 ### Contact Us
 
+<br>
+***Intro message***
 
 Please take a few minutes to answer a few questions.  Your feedback is valuable to us!
 
