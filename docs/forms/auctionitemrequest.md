@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Action Item
+title: Auction Item
 parent: AAHOM Forms
 grand_parent: Forms
 nav_order: 1
 ---
 
-### Action Item Requests
+### Auction Item Requests
 
 Form to request donated items.
 
@@ -149,4 +149,4 @@ Form to request donated items.
 
 **Partical Screenshot**
 
-![Alt Action Item Request](../../assets/images/action_item_request.jpg "Action Item Request")
+![Alt Action Item Request](../../assets/images/auction_item_request.jpg "Action Item Request")
