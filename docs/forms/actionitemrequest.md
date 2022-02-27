@@ -54,7 +54,7 @@ Form to request donated items.
 <table class="ws-table-all notranslate"> 
   <tbody>
     <tr class="tableTop">
-     <td style="width:150px">Field</td>
+     <td>Field</td>
      <td style="width:30px">Required</td>
      <td>Description</td>
     </tr>
