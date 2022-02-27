@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scholarship Fund Opportunities
+title: Scholarship Fund
 parent: AAHOM Forms
 grand_parent: Forms
 nav_order: 7

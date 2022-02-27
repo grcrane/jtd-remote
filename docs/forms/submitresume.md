@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Submit Cover Letter and Resume
+title: Submit Resume
 parent: AAHOM Forms
 grand_parent: Forms
 nav_order: 9

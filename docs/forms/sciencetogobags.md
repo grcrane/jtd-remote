@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Science To Go Bags
+title: Science Bags
 parent: AAHOM Forms
 grand_parent: Forms
 nav_order: 8

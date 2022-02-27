@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volunteer Orientation Login
+title: Volunteer Orient
 parent: AAHOM Forms
 grand_parent: Forms
 nav_order: 10

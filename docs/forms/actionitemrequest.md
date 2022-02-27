@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Action Item Requests
+title: Action Item
 parent: AAHOM Forms
 grand_parent: Forms
 nav_order: 1
