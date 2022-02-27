@@ -10,6 +10,8 @@ nav_order: 1
 
 Form to request donated items.
 
+***Stats***
+
 <table class="ws-table-all notranslate"> 
   <tbody>
     <tr class="tableTop">
@@ -43,6 +45,29 @@ Form to request donated items.
     
   </tbody>
 </table>
+
+***Fields***
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+     <td style="width:120px">Field</td>
+     <td>Description</td>
+    </tr>
+    <tr>
+      <td>Field one</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Field two</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>field three</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 **Partical Screenshot**
 
