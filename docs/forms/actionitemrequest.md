@@ -8,6 +8,7 @@ nav_order: 1
 
 ### Action Item Requests
 
+<p>
 ***Intro message***
 
 The Museum is proud to give back to the community that supports our education mission by 
