@@ -27,7 +27,7 @@ at the admissions desk.
 
 **Screenshot**
 
-![Alt Action Item Request Alt](../images/action_item_request.jpg "Action Item Request")
+![Alt Action Item Request Alt](../../assets/images/action_item_request.jpg "Action Item Request")
 
 **Form on AAHOM website**
 
