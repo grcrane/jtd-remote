@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Scholarship Fund Opportunities
+parent: Forms
 nav_order: 7
 ---
 

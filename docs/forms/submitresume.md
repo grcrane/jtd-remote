@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Submit Cover Letter and Resume
+parent: Forms
 nav_order: 9
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Scholarship Application - 2016
+parent: Forms
 nav_order: 6
 ---
 
