@@ -120,7 +120,3 @@ Form to request donated items.
 **Partical Screenshot**
 
 ![Alt Action Item Request](../../assets/images/action_item_request.jpg "Action Item Request")
-
-**Link URL**
-
-[https://www.aahom.org/form/auction-item-requests](https://www.aahom.org/form/auction-item-requests){:target="_blank"}
