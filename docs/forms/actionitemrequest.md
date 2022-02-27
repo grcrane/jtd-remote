@@ -16,6 +16,6 @@ nav_order: 1
 
 ![Alt Action Item Request](../../assets/images/action_item_request.jpg "Action Item Request")
 
-**Form on AAHOM website**
+**Link URL**
 
 [https://www.aahom.org/form/auction-item-requests](https://www.aahom.org/form/auction-item-requests){:target="_blank"}
