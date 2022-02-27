@@ -8,9 +8,31 @@ nav_order: 1
 
 ### Action Item Requests
 
-- Reference: AAHOM Website
-- Status: Unknown
-- Last Activity: Unknown
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+     <td style="width:120px">Item</td>
+     <td>Description</td>
+    </tr>
+    <tr>
+      <td>Reference</td>
+      <td>AAHOM Website</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>Last Activity</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>Pages</td>
+      <td>Unknown</td>
+    </tr>
+    
+  </tbody>
+</table>
 
 **Partical Screenshot**
 
