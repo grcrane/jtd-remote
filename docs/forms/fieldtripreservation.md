@@ -14,4 +14,4 @@ Plan an adventure with your students where knowledge is your destination. Studen
 
 **Form on AAHOM website**
 
-[Field Trip Reservation Form](https://www.aahom.org/form/field-trip-reservation-form){:target="_blank"}
+[https://www.aahom.org/form/field-trip-reservation-form](https://www.aahom.org/form/field-trip-reservation-form){:target="_blank"}

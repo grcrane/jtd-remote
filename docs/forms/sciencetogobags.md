@@ -14,4 +14,4 @@ Bags must be ordered at least 2 days in advance of your visit in order to allow 
 
 **Form on AAHOM website**
 
-[Science To Go Bags](https://www.aahom.org/form/science-to-go-bags){:target="_blank"}
+[https://www.aahom.org/form/science-to-go-bags](https://www.aahom.org/form/science-to-go-bags){:target="_blank"}

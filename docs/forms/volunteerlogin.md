@@ -11,4 +11,4 @@ Please enter your first and last name and PIN in the fields below to continue to
 
 **Form on AAHOM website**
 
-[Volunteer Orientation Login](https://www.aahom.org/form/volunteer-orientation-login){:target="_blank"}
+[https://www.aahom.org/form/volunteer-orientation-login](https://www.aahom.org/form/volunteer-orientation-login){:target="_blank"}

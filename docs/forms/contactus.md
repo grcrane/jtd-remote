@@ -12,4 +12,4 @@ Please take a few minutes to answer a few questions.  Your feedback is valuable 
 
 **Form on AAHOM website**
 
-[Contact Us](https://www.aahom.org/form/contact-us){:target="_blank"}
+[https://www.aahom.org/form/contact-us](https://www.aahom.org/form/contact-us){:target="_blank"}

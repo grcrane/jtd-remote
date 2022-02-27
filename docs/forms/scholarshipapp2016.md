@@ -20,4 +20,4 @@ How to apply: Fill out and submit this form.
 
 **Form on AAHOM website**
 
-[Scholarship Application](https://www.aahom.org/form/scholarship-application-summer-2016){:target="_blank"}
+[https://www.aahom.org/form/scholarship-application-summer-2016](https://www.aahom.org/form/scholarship-application-summer-2016){:target="_blank"}

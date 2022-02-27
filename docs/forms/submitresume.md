@@ -14,4 +14,4 @@ Bags must be ordered at least 2 days in advance of your visit in order to allow 
 
 **Form on AAHOM website**
 
-[Submit Cover Letter and Resume](https://www.aahom.org/form/submit-cover-letter-and-resume){:target="_blank"}
+[https://www.aahom.org/form/submit-cover-letter-and-resume](https://www.aahom.org/form/submit-cover-letter-and-resume){:target="_blank"}

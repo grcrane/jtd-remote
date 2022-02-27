@@ -12,4 +12,4 @@ The Discover Science Assistance Fund offers need-based scholarships.  It may cov
 
 **Form on AAHOM website**
 
-[Scholarship Fund Opportunities](https://www.aahom.org/form/scholarship-fund-opportunities){:target="_blank"}
+[https://www.aahom.org/form/scholarship-fund-opportunitiess](https://www.aahom.org/form/scholarship-fund-opportunities){:target="_blank"}

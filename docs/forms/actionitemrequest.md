@@ -24,4 +24,4 @@ at the admissions desk.
 
 **Form on AAHOM website**
 
-[Action Item Request](https://www.aahom.org/form/auction-item-requests){:target="_blank"}
+[https://www.aahom.org/form/auction-item-requests](https://www.aahom.org/form/auction-item-requests){:target="_blank"}

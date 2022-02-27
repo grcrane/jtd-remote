@@ -12,4 +12,4 @@ Please complete this form to apply for employment at the Ann Arbor Hands-On Muse
 
 **Form on AAHOM website**
 
-[Employment Application](https://www.aahom.org/form/employment-application){:target="_blank"}
+[https://www.aahom.org/form/employment-application](https://www.aahom.org/form/employment-application){:target="_blank"}
