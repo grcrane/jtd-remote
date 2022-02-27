@@ -56,61 +56,73 @@ Form to request donated items.
     <tr class="tableTop">
      <td>Field</td>
      <td style="width:30px">Required</td>
+     <td>Conditional</td>
      <td>Description</td>
     </tr>
     <tr>
       <td>Name of School</td>
       <td>Yes</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Tax ID Number</td>
       <td>Yes</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Address</td>
       <td>Yes</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>City</td>
       <td>Yes</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>State</td>
       <td>Yes</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Zip Code</td>
       <td>Yes</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Phone</td>
       <td>Yes</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Email</td>
       <td>Yes</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Date of Event</td>
       <td>Yes</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Location of Event</td>
       <td>Yes</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Brief explaination</td>
       <td>Yes</td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
