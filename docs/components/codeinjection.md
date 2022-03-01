@@ -68,7 +68,7 @@ Included in the footer is:
 - Add link to blog pages to easily return to previous page
 
 ### Museum Section Break
-The following html is included as "code" on multiple pages to create a section break.
+The following html is included as "**Code**" on multiple pages to create a section break.
 
 ```
 <h4 class="museumSectionBreak colorAahom">
