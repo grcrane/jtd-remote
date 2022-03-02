@@ -155,7 +155,15 @@ None
   <tr>
     <td>B</td>
     <td>Museum</td>
-    <td>Museum code, aahom, lesli etc</td>
+    <td>Museum code, aahom, lesli etc
+      <ul>
+          <li>aahom=Ann Arbor Hands On</li>
+          <li>leslie=Leslie Science</li>
+          <li>yankee=Yankee Air Museum</li>
+          <li>experience=Experience Center</li>
+          <li>challenger=Challenger Learning center</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>C</td>
