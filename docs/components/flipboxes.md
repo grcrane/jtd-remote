@@ -76,11 +76,11 @@ None
     </tr>
     <tr>
       <td>Folder</td>
-      <td>UIL_Web_Site_Docs</td>
+      <td><a href="https://drive.google.com/drive/folders/1YaVLSr9quHsbMDChBrlZUjpI_ZeG0cG-" target="_blank">UIL_Web_Site_Docs</a></td>
     </tr>
     <tr>
     	<td>Link</td>
-    	<td>[https://docs.google.com/spreadsheets/d/1wEfSb4Dnjz-eNEayaNiiws3ta1ZEueiQyG5-BTWSXag/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1wEfSb4Dnjz-eNEayaNiiws3ta1ZEueiQyG5-BTWSXag/edit?usp=sharing){:target="_blank"}</td>
+    	<td><a href="https://docs.google.com/spreadsheets/d/1wEfSb4Dnjz-eNEayaNiiws3ta1ZEueiQyG5-BTWSXag/edit?usp=sharing" target="_blank">https://docs.google.com/spreadsheets/d/1wEfSb4Dnjz-eNEayaNiiws3ta1ZEueiQyG5-BTWSXag/edit?usp=sharing</a></td>
     </tr>
     <tr>
       <td>ID</td>
