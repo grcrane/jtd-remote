@@ -98,6 +98,88 @@ You can dynamically override *ActiveTab* by adding a parameter to the linking ur
 
 None
 
+**Google Spreadsheet:**
+
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+     <td style="width:120px">Detail</td>
+     <td>Description</td>
+    </tr>
+    <tr>
+      <td>Owner</td>
+      <td>aahom220@gmail.com</td>
+    </tr>
+    <tr>
+      <td>File Name</td>
+      <td>Google Calendars</td>
+    </tr>
+    <tr>
+      <td>Folder</td>
+      <td><a href="https://drive.google.com/drive/folders/1YaVLSr9quHsbMDChBrlZUjpI_ZeG0cG-" target="_blank">UIL_Web_Site_Docs</a></td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td><a href="https://docs.google.com/spreadsheets/d/1i5EjZCpxI4UnvXyMYXCLyLP9tSCNt0PZYemaU6f6XtU/edit#gid=0" target="_blank">Google Calendar Spreadsheet</a></td>
+    </tr>
+    <tr>
+      <td>ID</td>
+      <td>1i5EjZCpxI4UnvXyMYXCLyLP9tSCNt0PZYemaU6f6XtU</td>
+    </tr>
+    <tr>
+      <td>Sheet Name</td>
+      <td>Calendars</td>
+    </tr>
+  </tbody>
+</table>
+
+**Spreadsheet Fields**
+
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+    <td style="width:20px">Column</td>
+    <td style="width:120px">Label</td>
+    <td>Description</td>
+    </tr>
+    <tr>
+    <td>A</td>
+    <td>Order</td>
+    <td>Order calendars should be displayed</td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td>Museum</td>
+    <td>Museum code, aahom, lesli etc</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>Name</td>
+    <td>Short name assoiciated with museum</td>
+  </tr>
+  <tr>
+    <td>D</td>
+    <td>Hide</td>
+    <td>Checked or Yes=Hide this museum when displaying calendars.</td>
+    </tr>
+    <tr>
+    <td>E</td>
+    <td>Title</td>
+    <td>Long name associated with museum</td>
+    </tr>
+    <tr>
+    <td>F</td>
+    <td>iFrame</td>
+    <td>The html iFrame code to display this calendar in monthly display.</td>
+  </tr>
+    <tr>
+    <td>G</td>
+    <td>After</td>
+    <td>Text to display as footer after calendar</td>
+    </tr>
+  </tbody>
+</table>
+
 
 **Calendar Dependancies**
 - **function build_calendar**
