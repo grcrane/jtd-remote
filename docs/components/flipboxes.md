@@ -58,7 +58,7 @@ None
 
 None
 
-**Spreadsheet:**
+**Google Spreadsheet:**
 
 <table class="ws-table-all notranslate"> 
   <tbody>
