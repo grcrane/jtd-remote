@@ -83,7 +83,6 @@ You can dynamically override *ActiveTab* by adding a parameter to the linking ur
         </ul>
       </td>
     </tr>
-
     <tr>
       <td><em>Collapasble</em></td>
       <td>Optional.
@@ -93,7 +92,6 @@ You can dynamically override *ActiveTab* by adding a parameter to the linking ur
         </ul>
       </td>
     </tr>
-
     <tr>
       <td><em>Collapsed</em></td>
       <td>Optional.<br>
@@ -118,3 +116,84 @@ You can dynamically override *ActiveTab* by adding a parameter to the linking ur
 **Return Value:**
 
 None
+
+**Google Spreadsheet:**
+
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+     <td style="width:120px">Detail</td>
+     <td>Description</td>
+    </tr>
+    <tr>
+      <td>Owner</td>
+      <td>aahom220@gmail.com</td>
+    </tr>
+    <tr>
+      <td>File Name</td>
+      <td>FAQs</td>
+    </tr>
+    <tr>
+      <td>Folder</td>
+      <td><a href="https://drive.google.com/drive/folders/1YaVLSr9quHsbMDChBrlZUjpI_ZeG0cG-" target="_blank">UIL_Web_Site_Docs</a></td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td><a href="https://docs.google.com/spreadsheets/d/1f3G-ECzjt8p-czZNPyUQGXG8NND016Nue5QypQTf6PQ/edit#gid=0" target="_blank">FAQs Spreadsheet</a></td>
+    </tr>
+    <tr>
+      <td>ID</td>
+      <td>1f3G-ECzjt8p-czZNPyUQGXG8NND016Nue5QypQTf6PQ</td>
+    </tr>
+    <tr>
+      <td>Sheet Name</td>
+      <td>FAQS</td>
+    </tr>
+  </tbody>
+</table>
+
+**Spreadsheet Fields**
+
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+    <td style="width:20px">Column</td>
+    <td style="width:120px">Label</td>
+    <td>Description</td>
+    </tr>
+    <tr>
+    <td>A</td>
+    <td>List</td>
+    <td>The museum code
+    <ul>
+          <li>unity=Unity in learning general</li>
+          <li>aahom=Ann Arbor Hands On</li>
+          <li>leslie=Leslie Science</li>
+          <li>yankee=Yankee Air Museum</li>
+          <li>experience=Experience Center</li>
+          <li>challenger=Challenger Learning center</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td>Category</td>
+    <td>Not used</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>Hide</td>
+    <td>Hide this question if value=Yes</td>
+  </tr>
+  <tr>
+    <td>D</td>
+    <td>Question</td>
+    <td>The faq question</td>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>Answer</td>
+    <td>The answer</td>
+    </tr>
+  </tbody>
+</table>
