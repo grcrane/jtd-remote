@@ -49,6 +49,7 @@ None
     <tr class="w3-white">
       <td>Boxnumber</td>
       <td>Box number from column A in spreadsheet.  Default=1.  The spreadsheet can contain multiple variations of the flipboxes, each with unique number. 
+      </td>
     </tr>
   </tbody>
 </table>
