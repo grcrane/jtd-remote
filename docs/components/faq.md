@@ -118,9 +118,3 @@ You can dynamically override *ActiveTab* by adding a parameter to the linking ur
 **Return Value:**
 
 None
-
-
-**Calendar Dependancies**
-- Code block (see above)
-- See: [FAQ's spreadsheet data]({{site.mybase}}/spreadsheets/faq.html)
-

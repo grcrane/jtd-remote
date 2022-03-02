@@ -6,14 +6,9 @@ has_children: true
 permalink: /docs/components
 ---
 
-### Global dependancies 
+### Components
 
-Note that all of the custom functions described here depend on styles and scripts define in the [Site header](/Docs/header_code) and or [Site footer](/Docs/footer_code), which is accessible via Home -> Settings -> Advanced -> Code Injection as:
+All components listed depend on styles and javascript in GitHub (Located in **AAHOM** GitHub repository **UIL**), unless otherwise indicated.   The two exceptions are plugins, Slick and Lazy Summaries.  
 
-- jQuery styles and script links
-- [Custom function](/Docs/javascript.html) from UIL Github account
-- [Custom styles](/Docs/styles.html) from UIL Github account
-- Slick plugin styles and script links
-- Lazy Summaries styles and script links in footer. 
-
-<a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a>
+- [Styles](https://github.com/AAHOM/UIL/blob/main/styles.css){:target="_blank"} 
+- [Javascript](https://github.com/AAHOM/UIL/blob/main/unity.js){:target="_blank"}  

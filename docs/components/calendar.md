@@ -179,12 +179,3 @@ None
     </tr>
   </tbody>
 </table>
-
-
-**Calendar Dependancies**
-- **function build_calendar**
-  - Located in **AAHOM** GitHub repository **UIL** in file **unity.js**
-  - See: [https://github.com/AAHOM/UIL/blob/main/unity.js](https://github.com/AAHOM/UIL/blob/main/unity.js){:target="_blank"}
-- Code block (see above)
-- See: [Calendar spreadsheet data]({{site.mybase}}/spreadsheets/calendar.html)
-

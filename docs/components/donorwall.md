@@ -54,11 +54,3 @@ None
 **Return Value:**
 
 None
-
-**Donor Wall Dependancies**
-- **function do_donor_wall**
-  - Located in **AAHOM** GitHub repository **UIL** in file **unity.js**
-  - See: [https://github.com/AAHOM/UIL/blob/main/unity.js](https://github.com/AAHOM/UIL/blob/main/unity.js){:target="_blank"}
-- Code block (see above)
-- See: [Donor Wall spreadsheet data]({{site.mybase}}/spreadsheets/donorwall.html)
-

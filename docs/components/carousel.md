@@ -90,9 +90,6 @@ None
 None
 
 
-**Carousel Dependancies**
-- **function createCarousel**
-  - Located in **AAHOM** GitHub repository **UIL** in file **unity.js**
-  - See: [https://github.com/AAHOM/UIL/blob/main/unity.js](https://github.com/AAHOM/UIL/blob/main/unity.js){:target="_blank"}
-- Code block (see above)
+**Additional Carousel Dependancies**
+
 - Slick plugin
