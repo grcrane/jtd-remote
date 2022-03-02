@@ -117,7 +117,7 @@ None
     </tr>
     <tr>
       <td>File Name</td>
-      <td>Location Mapd</td>
+      <td>Location Maps</td>
     </tr>
     <tr>
       <td>Folder</td>
