@@ -16,7 +16,7 @@ Home page flip boxes for Visit, Learn and Support.
 - Paste the following code block
 - Adust parameters as needed
 
-**Code block for calendar of events**
+**Code block for flip cards**
 ```
 <script>
 $( document ).ready(function() {
