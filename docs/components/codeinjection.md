@@ -25,8 +25,10 @@ Code that will be injected intothe "head" tag on every page of the site
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/AAHOM/UIL@a40b06a/unity.min.js"></script>
-<link rel='stylesheet' href="https://cdn.jsdelivr.net/gh/AAHOM/UIL@a40b06a/styles.min.css" />
+<!-- Custom museum javascript and styles -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/AAHOM/UIL@2e04c73/unity.min.js"></script>
+<link rel='stylesheet' href="https://cdn.jsdelivr.net/gh/AAHOM/UIL@2108278/styles.min.css" />
+<!-- Slick Carousel plugin -->
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
 <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
@@ -52,14 +54,6 @@ $('<div class="returnPrev"><A HREF="javascript:javascript:history.go(-1)">Back t
 $('<div class="returnPrev"><A HREF="javascript:javascript:history.go(-1)">Back to previous page</A></div>').insertAfter('div.blog-item-wrapper');
 })
 </script>
-<style>
-div.returnPrev {
-  text-align: center;
-}
-div.returnPrev a {
-  text-decoration: underline;
-}
-</style>
 ```
 
 Included in the footer is:
