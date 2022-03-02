@@ -92,3 +92,95 @@ None
     </tr>
   </tbody>
 </table>
+
+**Spreadsheet Fields**
+
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+		<td style="width:20px">Column</td>
+		<td style="width:120px">Label</td>
+		<td>Description</td>
+    </tr>
+    <tr>
+		<td>A</td>
+		<td>Box</td>
+		<td>Box number from column A in spreadsheet.  Default=1.  The spreadsheet can contain multiple variations of the flipboxes, each with unique number.</td>
+	</tr>
+	<tr>
+		<td>B</td>
+		<td>Card</td>
+		<td>This is the order that the cards are presented. Expecting a number.</td>
+	</tr>
+	<tr>
+		<td>C</td>
+		<td>Caption</td>
+		<td>Text highlighted on front of card.</td>
+	</tr>
+	<tr>
+		<td>D</td>
+		<td>Label</td>
+		<td>Not used</td>
+	</tr>
+	<tr>
+		<td><E/td>
+		<td>link</td>
+		<td>Page link</td>
+    </tr>
+    <tr>
+		<td>F</td>
+		<td>Background color</td>
+		<td>rgb color code, ie. rgb(102, 102, 102)</td>
+    </tr>
+    <tr>
+		<td>G</td>
+		<td>Color</td>
+		<td>Color of text message</td>
+	</tr>
+    <tr>
+		<td>H</td>
+		<td>Message</td>
+		<td>Text message on flip side</td>
+    </tr>
+    <tr>
+		<td>I</td>
+		<td>Image1</td>
+		<td>Link to image 1</td>
+    </tr>
+    <tr>
+		<td>J</td>
+		<td>Image2</td>
+		<td>Link to image 2</td>
+    </tr>
+    <tr>
+		<td>K</td>
+		<td>Image3</td>
+		<td>Link to image 3</td>
+    </tr>
+    <tr>
+		<td>L</td>
+		<td>Image4</td>
+		<td>Link to image 4</td>
+    </tr>
+    <tr>
+		<td>M</td>
+		<td>Image5</td>
+		<td>Link to image 5</td>
+    </tr>
+    <tr>
+		<td>N</td>
+		<td>Image6</td>
+		<td>Link to image 6</td>
+    </tr>
+    <tr>
+		<td>O</td>
+		<td>Image7</td>
+		<td>Link to image 7</td>
+    </tr>
+    <tr>
+		<td>P</td>
+		<td>Image8</td>
+		<td>Link to image 8</td>
+    </tr>
+  </tbody>
+</table>
