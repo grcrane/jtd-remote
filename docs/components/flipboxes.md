@@ -80,7 +80,7 @@ None
     </tr>
     <tr>
     	<td>Link</td>
-    	<td><a href="https://docs.google.com/spreadsheets/d/1wEfSb4Dnjz-eNEayaNiiws3ta1ZEueiQyG5-BTWSXag/edit?usp=sharing" target="_blank">https://docs.google.com/spreadsheets/d/1wEfSb4Dnjz-eNEayaNiiws3ta1ZEueiQyG5-BTWSXag/edit?usp=sharing</a></td>
+    	<td><a href="https://docs.google.com/spreadsheets/d/1wEfSb4Dnjz-eNEayaNiiws3ta1ZEueiQyG5-BTWSXag/edit#gid=851926596" target="_blank">Flip Boxes Spreadsheet</a></td>
     </tr>
     <tr>
       <td>ID</td>
