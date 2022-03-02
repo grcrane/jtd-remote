@@ -103,10 +103,79 @@ You can dynamically override *ActiveTab* by adding a parameter to the linking ur
 
 None
 
-**Maps Dependancies**
-- **function do_maps**
-  - Located in **AAHOM** GitHub repository **UIL** in file **unity.js**
-  - See: [https://github.com/AAHOM/UIL/blob/main/unity.js](https://github.com/AAHOM/UIL/blob/main/unity.js){:target="_blank"}
-- Code block (see above)
-- See: [Map Locations spreadsheet data]({{site.mybase}}/spreadsheets/locations.html)
+**Google Spreadsheet:**
 
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+     <td style="width:120px">Detail</td>
+     <td>Description</td>
+    </tr>
+    <tr>
+      <td>Owner</td>
+      <td>aahom220@gmail.com</td>
+    </tr>
+    <tr>
+      <td>File Name</td>
+      <td>Location Mapd</td>
+    </tr>
+    <tr>
+      <td>Folder</td>
+      <td><a href="https://drive.google.com/drive/folders/1YaVLSr9quHsbMDChBrlZUjpI_ZeG0cG-" target="_blank">UIL_Web_Site_Docs</a></td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td><a href="https://docs.google.com/spreadsheets/d/1Xrz1gJ0to5c01jiDyMvl38486s_J94lHhERtTHEBw5E/edit#gid=0" target="_blank">Location Maps Spreadsheet</a></td>
+    </tr>
+    <tr>
+      <td>ID</td>
+      <td>1Xrz1gJ0to5c01jiDyMvl38486s_J94lHhERtTHEBw5E</td>
+    </tr>
+    <tr>
+      <td>Sheet Name</td>
+      <td>Maps</td>
+    </tr>
+  </tbody>
+</table>
+
+**Spreadsheet Fields**
+
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+    <td style="width:20px">Column</td>
+    <td style="width:120px">Label</td>
+    <td>Description</td>
+    </tr>
+    <tr>
+    <td>A</td>
+    <td>Order</td>
+    <td>Order maps should be displayed</td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td>Museum</td>
+    <td>Museum code, aahom, lesli etc</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>Hide</td>
+    <td>Checked or Yes=Hide this map when displaying locations.</td>
+    </tr>
+    <tr>
+    <td>D</td>
+    <td>Text before</td>
+    <td>Message to display before map</td>
+    </tr>
+    <tr>
+    <td>E</td>
+    <td>iFrame</td>
+    <td>The html iFrame code to display this map.</td>
+  </tr>
+    <tr>
+    <td>F</td>
+    <td>Text after</td>
+    <td>Text to display as after the map</td>
+    </tr>
+  </tbody>
+</table>
