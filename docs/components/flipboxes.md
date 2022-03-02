@@ -124,7 +124,7 @@ None
 		<td>Not used</td>
 	</tr>
 	<tr>
-		<td><E/td>
+		<td>E</td>
 		<td>link</td>
 		<td>Page link</td>
     </tr>
