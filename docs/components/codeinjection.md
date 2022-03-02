@@ -48,12 +48,6 @@ Code that will be injected into the template-defined footer on every page of the
 <script>
 !function(){window.self===window.top||window.top.document.getElementById("lazy-summaries-admin")||function(e,t,s,i,a){if(s.querySelector("#"+t))i&&i(this);else{var n=document.createElement("script");n.src=e+"?cache="+((new Date).getTime()+"").substr(0,8),n.id=t,n.onload=function(){a&&this.remove(),i&&i(this)},s.appendChild(n)}}("https://assets.squarewebsites.org/lazy-summaries/lazy-summaries-admin.js","lazy-summaries-admin",window.top.document.getElementsByTagName("head")[0])}();
 </script>
-<script>
-$(document).ready(function() {
-$('<div class="returnPrev"><A HREF="javascript:javascript:history.go(-1)">Back to previous page</A></div>').insertBefore('div.blog-item-wrapper');
-$('<div class="returnPrev"><A HREF="javascript:javascript:history.go(-1)">Back to previous page</A></div>').insertAfter('div.blog-item-wrapper');
-})
-</script>
 ```
 
 Included in the footer is:
