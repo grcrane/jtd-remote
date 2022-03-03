@@ -11,8 +11,8 @@ description: "Category assignments"
    	<table class="ws-table-all notranslate">
       <thead>
          <tr class="tableTop"> 
-         	<td style="width:120px"><em>Group</em></td>
-          <td><em>Category</em></td>
+         	<th style="width:120px">Group</th>
+          <th>Category</td>
          </tr>
       </thead>
       <tbody>
