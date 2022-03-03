@@ -146,4 +146,6 @@ None
 
 ![Alt Team Members](../../assets/images/team_members.jpg "Team Members")
 
+**Team member detail**
+
 ![Alt Team Member Detail](../../assets/images/team_member_detail.jpg "Team Member Detail")
