@@ -93,3 +93,7 @@ None
 **Additional Carousel Dependancies**
 
 - Slick plugin
+
+**Example Screenshot**
+
+![Alt Slick Carousel](../../assets/images/slick_carousel.jpg "Slick Carousel")
