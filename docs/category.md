@@ -9,6 +9,7 @@ description: "Category assignments"
 
 The following table shows standard catagory names to be used within blog entries to be used as filters.  
 
+
 <table class="ws-table-all notranslate slim">
   <thead>
      <tr class="tableTop"> 
