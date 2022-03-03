@@ -141,3 +141,7 @@ None
     </tr>
   </tbody>
 </table>
+
+**Example Screenshot**
+
+![Alt Team Members](../../assets/images/team_members.jpg "Team Members")
