@@ -19,7 +19,6 @@ Museum address and information box
 **Code block for calendar of events**
 ```
 <script>
-$<script>
 $( document ).ready(function() {
   showAddressInfo('#addressContainer', 'leslie'); 
 });
