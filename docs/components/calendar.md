@@ -180,6 +180,10 @@ None
   </tbody>
 </table>
 
-**Example Screenshot**
+**Calendar desktop view**
 
-![Alt Calendar](../../assets/images/calendar.jpg "Calendar")
+![Alt Calendar Desktop](../../assets/images/calendar.jpg "Calendar Desktop")
+
+**Calendar mobile view**
+
+![Alt Calendar Mobile](../../assets/images/calendar_mobile.jpg "Calendar Mobile")
