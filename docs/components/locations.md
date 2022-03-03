@@ -187,3 +187,7 @@ None
     </tr>
   </tbody>
 </table>
+
+**Example Screenshot**
+
+![Alt Map Directions](../../assets/images/locations.jpg "Map Directions")
