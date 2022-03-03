@@ -145,3 +145,5 @@ None
 **Example Screenshot**
 
 ![Alt Team Members](../../assets/images/team_members.jpg "Team Members")
+
+![Alt Team Member Detail](../../assets/images/team_member_detail.jpg "Team Member Detail")
