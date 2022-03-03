@@ -18,7 +18,7 @@ The **do_donor_wall** custom function grabs data from a Google spreadsheet (Dono
 - Paste the following code block
 - Adust parameters as needed
 
-**Code block for calendar of events**
+**Code block for donor wall**
 ```
 <script>
 $( document ).ready(function() {
