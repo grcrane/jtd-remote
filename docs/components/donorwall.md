@@ -122,3 +122,7 @@ None
     </tr>
   </tbody>
 </table>
+
+**Example Screenshot**
+
+![Alt Donor Wall](../../assets/images/donor_wall.jpg "Donor Wall")
