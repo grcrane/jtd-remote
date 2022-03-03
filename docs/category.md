@@ -12,7 +12,7 @@ description: "Category assignments"
       <thead>
          <tr class="tableTop"> 
          	<th style="width:120px">Group</th>
-          <th>Category</td>
+          <th>Category</th>
          </tr>
       </thead>
       <tbody>
