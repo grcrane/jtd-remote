@@ -197,3 +197,7 @@ None
     </tr>
   </tbody>
 </table>
+
+**Example Screenshot**
+
+![Alt Frequently Asked Questions](../../assets/images/faqs.jpg "Frequently Asked Questions")
