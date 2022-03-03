@@ -8,11 +8,11 @@ description: "Category assignments"
 ### Categories  
 
 <div class="table-wrapper">
-   <table>
+   	<table class="ws-table-all notranslate">
       <thead>
-         <tr>
-            <th>Group</th>
-            <th>Category</th>
+         <tr class="tableTop"> 
+         	<td style="width:120px"><em>Group</em></td>
+          <td><em>Category</em></td>
          </tr>
       </thead>
       <tbody>
