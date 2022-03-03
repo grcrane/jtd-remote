@@ -5,50 +5,189 @@ nav_order: 2
 description: "Category assignments"
 ---
 
-### Categories   
+### Categories  
 
-|Group|Category|Label|
-|-----|-----|-----|
-|Locations|All|All Locations|
-|Locations|Leslie|Leslie Science & Nature Center|
-|Locations|aahom|Ann Arbor Hands On Museum|
-|Locations|Yankee|Yankee Air Museum|
-|Locations|Challenger|Challenger Center|
-||||
-|Age|All Ages|All Ages|
-|Age|PreK|PreK|
-|Age|K|K|
-|Age|1st|1st|
-|Age|2nd|2nd|
-|Age|3rd|3rd|
-|Age|4th|4th|
-|Age|5th|5th|
-|Age|6-8th|6-8th|
-|Age|9-12th|9-12th|
-|Age|Adult|Adult|
-||||
-|Outreach|All|All|
-|Outreach|Classroom Workshops|Classroom Workshops|
-|Outreach|Super Science Days|Super Science Days|
-|Outreach|Family Nights|Family Nights|
-|Outreach|Live Animal Experience|Live Animal Experience|
-||||
-|Distance|All|All|
-|Distance|Lab Experience|Lab Experience|
-|Distance|Live Animal Experience|Live Animal Experience|
-|Distance|NASA Simulations|NASA Simulations|
-||||
-|Field|All|All|
-|Field|Museum Galleries|Museum Galleries|
-|Field|Lab Experience|Lab Experience|
-|Field|Live Animal Experience|Live Animal Experience|
-|Field|Guided Hikes|Guided Hikes|
-|Field|NASA Simulations|NASA Simulations|
-||||
-|Topics|All|All|
-|Topics|Magnetism|Magnetism|
-|Topics|Physics|Physics|
-|Topics|Biology|Biology|
-|Topics|Ecosystems|Ecosystems|
-|Topics|Math|Math|
-|Topics|Astrology|Astrology|
+<div class="table-wrapper">
+   <table>
+      <thead>
+         <tr>
+            <th>Group</th>
+            <th>Category</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>Locations</td>
+            <td>All Locations</td>
+         </tr>
+         <tr>
+            <td>Locations</td>
+            <td>Leslie Science &amp; Nature Center</td>
+         </tr>
+         <tr>
+            <td>Locations</td>
+            <td>Ann Arbor Hands On Museum</td>
+         </tr>
+         <tr>
+            <td>Locations</td>
+            <td>Yankee Air Museum</td>
+         </tr>
+         <tr>
+            <td>Locations</td>
+            <td>Challenger Center</td>
+         </tr>
+         <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>All Ages</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>PreK</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>K</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>1st</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>2nd</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>3rd</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>4th</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>5th</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>6-8th</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>9-12th</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>Adult</td>
+         </tr>
+         <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+         </tr>
+         <tr>
+            <td>Outreach</td>
+            <td>All</td>
+         </tr>
+         <tr>
+            <td>Outreach</td>
+            <td>Classroom Workshops</td>
+         </tr>
+         <tr>
+            <td>Outreach</td>
+            <td>Super Science Days</td>
+         </tr>
+         <tr>
+            <td>Outreach</td>
+            <td>Family Nights</td>
+         </tr>
+         <tr>
+            <td>Outreach</td>
+            <td>Live Animal Experience</td>
+         </tr>
+         <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+         </tr>
+         <tr>
+            <td>Distance</td>
+            <td>All</td>
+         </tr>
+         <tr>
+            <td>Distance</td>
+            <td>Lab Experience</td>
+         </tr>
+         <tr>
+            <td>Distance</td>
+            <td>Live Animal Experience</td>
+         </tr>
+         <tr>
+            <td>Distance</td>
+            <td>NASA Simulations</td>
+         </tr>
+         <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+         </tr>
+         <tr>
+            <td>Field</td>
+            <td>All</td>
+         </tr>
+         <tr>
+            <td>Field</td>
+            <td>Museum Galleries</td>
+         </tr>
+         <tr>
+            <td>Field</td>
+            <td>Lab Experience</td>
+         </tr>
+         <tr>
+            <td>Field</td>
+            <td>Live Animal Experience</td>
+         </tr>
+         <tr>
+            <td>Field</td>
+            <td>Guided Hikes</td>
+         </tr>
+         <tr>
+            <td>Field</td>
+            <td>NASA Simulations</td>
+         </tr>
+         <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+         </tr>
+         <tr>
+            <td>Topics</td>
+            <td>All</td>
+         </tr>
+         <tr>
+            <td>Topics</td>
+            <td>Magnetism</td>
+         </tr>
+         <tr>
+            <td>Topics</td>
+            <td>Physics</td>
+         </tr>
+         <tr>
+            <td>Topics</td>
+            <td>Biology</td>
+         </tr>
+         <tr>
+            <td>Topics</td>
+            <td>Ecosystems</td>
+         </tr>
+         <tr>
+            <td>Topics</td>
+            <td>Math</td>
+         </tr>
+         <tr>
+            <td>Topics</td>
+            <td>Astrology</td>
+         </tr>
+      </tbody>
+   </table>
+</div>
