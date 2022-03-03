@@ -185,3 +185,7 @@ None
     </tr>
   </tbody>
 </table>
+
+**Example Screenshot**
+
+![Alt Home Page Flip Boxes](../../assets/images/flip_boxes.jpg "Home Page Flip Boxes")
