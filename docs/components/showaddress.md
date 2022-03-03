@@ -7,7 +7,7 @@ nav_order: 10
 
 ### Address Info Box
 
-Museum address and information box
+Museum address and information box.  Gets data from spreadsheet and displays as three blocks of information.  (1) Address; (2) Hours of operations; (3) Admissions information.  Standard museum colors are used. 
 
 ***Cook book***
 - Edit the page
@@ -16,7 +16,7 @@ Museum address and information box
 - Paste the following code block
 - Adust parameters as needed
 
-**Code block for calendar of events**
+**Code block for address info block**
 ```
 <script>
 $( document ).ready(function() {
@@ -154,3 +154,7 @@ None
     </tr>
   </tbody>
 </table>
+
+**Example Screenshot**
+
+![Alt Address Info Box](../../assets/images/address_info_box.jpg "Address Info Box")
