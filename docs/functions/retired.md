@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Retired 
-parent: Supporting Functions
+parent: Functions
 nav_order: 20
 has_children: true
 ---
