@@ -2,7 +2,7 @@
 layout: default
 title: Menu Bar
 parent: Components
-nav_order: 12
+nav_order: 18
 ---
 
 ### Menu Bar

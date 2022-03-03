@@ -2,7 +2,7 @@
 layout: default
 title: Slick Carousel
 parent: Components
-nav_order: 14
+nav_order: 24
 ---
 
 ### Slick Carousel
