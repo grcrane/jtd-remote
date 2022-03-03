@@ -7,6 +7,8 @@ description: "Category assignments"
 
 ### Categories  
 
+The following table shows standard catagory names to be used within blog entries to be used as filters.  
+
 <div class="table-wrapper">
    	<table class="ws-table-all notranslate">
       <thead>
