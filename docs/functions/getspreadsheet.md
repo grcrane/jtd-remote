@@ -1,7 +1,7 @@
 ---
 layout: default
 title: get_spreadsheet <span class="new">(Updated)</span>
-parent: Supporting Functions
+parent: Functions
 nav_order: 3
 ---
 

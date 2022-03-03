@@ -2,7 +2,7 @@
 layout: default
 title: getCachedSheet
 parent: Retired
-grand_parent: Supporting Functions
+grand_parent: Functions
 nav_order: 3
 ---
 

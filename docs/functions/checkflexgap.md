@@ -1,7 +1,7 @@
 ---
 layout: default
 title: checkFlexGap <span class="new">(Updated)</span>
-parent: Supporting Functions
+parent: Functions
 nav_order: 2
 ---
 
