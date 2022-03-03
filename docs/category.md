@@ -92,7 +92,7 @@ The following table shows standard catagory names to be used within blog entries
      </tr>
      <tr>
         <td>Outreach</td>
-        <td>All</td>
+        <td>All Outreach</td>
      </tr>
      <tr>
         <td>Outreach</td>
@@ -116,7 +116,7 @@ The following table shows standard catagory names to be used within blog entries
      </tr>
      <tr>
         <td>Distance</td>
-        <td>All</td>
+        <td>All Distance</td>
      </tr>
      <tr>
         <td>Distance</td>
@@ -136,7 +136,7 @@ The following table shows standard catagory names to be used within blog entries
      </tr>
      <tr>
         <td>Field</td>
-        <td>All</td>
+        <td>All Field</td>
      </tr>
      <tr>
         <td>Field</td>
@@ -164,7 +164,7 @@ The following table shows standard catagory names to be used within blog entries
      </tr>
      <tr>
         <td>Topics</td>
-        <td>All</td>
+        <td>All Topics</td>
      </tr>
      <tr>
         <td>Topics</td>
