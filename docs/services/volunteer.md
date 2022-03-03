@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Volunteers
-parent: Outside Services
+parent: Services
 nav_order: 8
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Google
-parent: Outside Services
+parent: Services
 nav_order: 4
 ---
 

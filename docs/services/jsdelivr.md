@@ -1,7 +1,7 @@
 ---
 layout: default
 title: jsdelivr
-parent: Outside Services
+parent: Services
 nav_order: 6
 ---
 
