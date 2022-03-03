@@ -2,7 +2,7 @@
 layout: default
 title: SquareSpace
 nav_order: 1
-parent: Outside Services
+parent: Services
 ---
 
 # Overview
