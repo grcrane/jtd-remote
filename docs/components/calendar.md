@@ -179,3 +179,7 @@ None
     </tr>
   </tbody>
 </table>
+
+**Example Screenshot**
+
+![Alt Calendar](../../assets/images/calendar.jpg "Calendar")
