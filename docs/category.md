@@ -10,7 +10,7 @@ description: "Category assignments"
 The following table shows standard catagory names to be used within blog entries to be used as filters.  
 
 <div class="table-wrapper">
-   	<table class="ws-table-all notranslate">
+   	<table class="ws-table-all notranslate slim">
       <thead>
          <tr class="tableTop"> 
          	<th style="width:120px">Group</th>
