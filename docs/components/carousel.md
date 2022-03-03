@@ -47,7 +47,7 @@ transform the carousel to a Slick plugin carousel.
 - Paste the following code block
 - Adust parameters as needed
 
-**Code block for calendar of events**
+**Code block for slick carousel**
 ```
 <script>
 $(document).ready(function(){
