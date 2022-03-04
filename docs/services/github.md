@@ -19,4 +19,4 @@ Repository for custom site styles and javascript.
 GitHub pages website for documentation. 
 
 - [https://github.com/grcrane/jtd-remote](https://github.com/grcrane/jtd-remote){:target="_blank"} 
-- [UIL Documentation website](https://grcrane.github.io/jtd-remote/){:target="_blank"} 
+- [UIL Documentation website (this site)](https://grcrane.github.io/jtd-remote/)
