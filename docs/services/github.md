@@ -7,7 +7,8 @@ nav_order: 2
 
 ### GitHub Software Repository and Documentation	
 
-- Owning account: - AAHOM
+- Source code owning account: - AAHOM
+- Documentation owning account: - grcrane
 
 #### Source code repository
 
@@ -16,4 +17,4 @@ nav_order: 2
 #### Documentation repository
 
 - [https://github.com/grcrane/jtd-remote](https://github.com/grcrane/jtd-remote){:target="_blank"} 
-- [UIL Documentation](https://grcrane.github.io/jtd-remote/){:target="_blank"} 
+- [UIL Documentation website](https://grcrane.github.io/jtd-remote/){:target="_blank"} 
