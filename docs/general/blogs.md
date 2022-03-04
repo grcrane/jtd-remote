@@ -1,22 +1,24 @@
 ---
 layout: default
-title: Blogs
+title: Reference Pages
 parent: General
 nav_order: 2
-description: "Blog Usage"
+description: "Reference Pages"
 ---
 
-### Blogs
+### Reference Pages
 
-SquareSpace blogs are used throughtout the website to display announcements, promotions, exhibits, classes etc. 
+These are pages that are indirectly linked from other pages on the site and not in the main navigation. 
 
-#### Current blogs used on website
+- Admin
+- Media Library
+- Plans During Pandemic
+- About Utility in Leariong
+- Tech Twilight Sponsorship
+- Newsletter Signup
+- Reciprocal Museums
 
-- Announcements
-- Distance Learning
-- Outreach
-- Feild Trips
-- Site Features
-- Public Education
-- Promotions
-- Jobs List
+#### Admin
+The Admin page is used to manage the various Google spreadsheets that provide dynamic information on the website. 
+
+#### Media Library
