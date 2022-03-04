@@ -17,6 +17,7 @@ These are pages that are indirectly linked from other pages on the site and not 
 - Tech Twilight Sponsorship
 - Newsletter Signup
 - Reciprocal Museums
+- IDEA Statement
 
 #### Admin
 The Admin page is used to manage the various Google spreadsheets that provide dynamic information on the website. 
