@@ -1,24 +1,23 @@
 ---
 layout: default
-title: Reference Pages
+title: Blogs
 parent: General
 nav_order: 2
-description: "Reference Pages"
+description: "Blogs"
 ---
 
-### Reference Pages
+### Blogs
 
-These are pages that are indirectly linked from other pages on the site and not in the main navigation. 
+Blogs are used throught the website to display information such as Announcements, Promotions, Exhibits, Field Trips, Classroom opportunities etc.  
 
-- Admin
-- Media Library
-- Plans During Pandemic
-- About Utility in Leariong
-- Tech Twilight Sponsorship
-- Newsletter Signup
-- Reciprocal Museums
+#### Current Blogs
 
-#### Admin
-The Admin page is used to manage the various Google spreadsheets that provide dynamic information on the website. 
+- Announcements
+- Distance Learning
+- Outreach
+- Field Trips
+- Site Features
+- Public Education
+- Promotions
+- Job List
 
-#### Media Library
