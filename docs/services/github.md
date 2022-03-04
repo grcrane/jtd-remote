@@ -11,10 +11,12 @@ nav_order: 2
 - Documentation owning account: - grcrane
 
 #### Source code repository
+Repository for custom site styles and javascript. 
 
 - [https://github.com/AAHOM/UIL](https://github.com/AAHOM/UIL){:target="_blank"} 
 
 #### Documentation repository
+GitHub pages website for documentation. 
 
 - [https://github.com/grcrane/jtd-remote](https://github.com/grcrane/jtd-remote){:target="_blank"} 
 - [UIL Documentation website](https://grcrane.github.io/jtd-remote/){:target="_blank"} 
