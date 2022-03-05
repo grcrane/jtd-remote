@@ -18,7 +18,7 @@ The following table shows the standard color schemes used throughout the site.  
     --global-color-challenger: 237,159,33;
     --global-color-experience: 248,197,21;
     --global-color-links: 0, 0, 255
-    --global-color-section: 224, 224, 219;
+    --global-color-section: 64, 77, 92;
 }
 ```
 
@@ -31,7 +31,7 @@ The following table shows the standard color schemes used throughout the site.  
 	--global-color-challenger: 237,159,33;
 	--global-color-experience: 248,197,21;
 	--global-color-links: 0, 0, 255;
-	--global-color-section: 224, 224, 219;
+	--global-color-section: 64, 77, 92;
 }
 /*
 table.minimal {
@@ -101,8 +101,8 @@ div.table-wrapper {
       <tr>
       	<td>Misc</td>
          <td>Section background</td>
-         <td>rgb(224, 224, 219)</td>
-         <td style="width:40px;background-color: rgb(var(--global-color-section));">&nbsp;</td>
+         <td>rgba(224, 224, 219,.05)</td>
+         <td style="width:40px;background-color: rgb(var(--global-color-section),.05);">&nbsp;</td>
       </tr>
    </tbody>
 </table>
