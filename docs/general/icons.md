@@ -10,6 +10,9 @@ description: "Icons and Images"
 The following table shows the icons used.  
 
 <style>
+	td.imageIcon {
+		text-align:  center;
+	}
 	td.iconImage img {
 		width: 150px;
 		height: 100px;
@@ -28,7 +31,7 @@ The following table shows the icons used.
    <tbody>
    		<tr>
    		 <td>Icon</td>
-         <td>Unity in Learning</td>
+         <td><a href="../../assets/images/icon_aahom_full.png" target="_blank">Unity in Learning</a></td>
          <td class="iconImage">
          	<img src="../../assets/images/icon_aahom_full.png">
          </td>
