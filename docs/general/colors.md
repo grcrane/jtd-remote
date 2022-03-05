@@ -43,39 +43,46 @@ div.table-wrapper {
 <table class="minimal">
    <thead>
       <tr class="tableTop">
-         <th style="width:120px">Museum</th>
+      	<th style="width: 30px;">Type</th>
+         <th style="width:120px;">Museum</th>
          <th>RGB Color</th>
          <th>Sample</th>
       </tr>
    </thead>
    <tbody>
    		<tr>
-         <td>unity</td>
-         <td>rgb(64, 77, 92)var(--global-color-unity)</td>
+   		 <td>Museum</td>
+         <td>Unity in Learning</td>
+         <td>rgb(64, 77, 92)</td>
          <td style="width:40px;background-color: rgb(var(--global-color-unity));">&nbsp;</td>
       </tr>
       <tr>
-         <td>aahom</td>
+      	<td>Museum</td>
+         <td>Ann Arbor Hands-On Museum</td>
          <td>rgb(60,100,168)</td>
          <td style="width:40px;background-color: rgb(var(--global-color-aahom));">&nbsp;</td>
       </tr>
       <tr>
-         <td>leslie</td>
+      	<td>Museum</td>
+         <td>Leslie Science & Nature Center</td>
          <td>rgb(109,143,60)</td>
          <td style="width:40px;background-color: rgb(var(--global-color-leslie));">&nbsp;</td>
       </tr>
       <tr>
-         <td>yankee</td>
+      	<td>Museum</td>
+         <td>Yankee Air Museum</td>
          <td>rgb(237,27,48)</td>
          <td style="width:40px;background-color: rgb(var(--global-color-yankee));">&nbsp;</td>
       </tr>
       <tr>
-         <td>challenger</td>
+      	<td>Museum</td>
+         <td>Challenger Center</td>
          <td>rgb(237,159,33)</td>
          <td style="width:40px;background-color: rgb(var(--global-color-challenger));">&nbsp;</td>
       </tr>
       <tr>
-         <td>experience</td>
+      	<td>Museum</td>
+         <td>Experience Center</td>
          <td>rgb(248,197,21)</td>
          <td style="width:40px;background-color: rgb(var(--global-color-experience));">&nbsp;</td>
       </tr>
