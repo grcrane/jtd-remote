@@ -19,6 +19,8 @@ The following table shows the standard color schemes used throughout the site.  
     --global-color-experience: 248,197,21;
     --global-color-links: 0, 0, 255
     --global-color-section: 64, 77, 92;
+    --global-color-submenu: 77, 54, 59;
+    --global-color-submenu-active: 131, 124,124;
 }
 ```
 
@@ -32,6 +34,8 @@ The following table shows the standard color schemes used throughout the site.  
 	--global-color-experience: 248,197,21;
 	--global-color-links: 0, 0, 255;
 	--global-color-section: 64, 77, 92;
+   --global-color-submenu: 77, 54, 59;
+   --global-color-submenu-active: 131, 124,124;
 }
 /*
 table.minimal {
@@ -103,6 +107,18 @@ div.table-wrapper {
          <td>Page section background</td>
          <td>rgba(224, 224, 219,.05)</td>
          <td style="width:40px;background-color: rgb(var(--global-color-section),.05);">&nbsp;</td>
+      </tr>
+      <tr>
+         <td>Misc</td>
+         <td>SubMenu</td>
+         <td>rgb(77, 54, 59)</td>
+         <td style="width:40px;background-color: rgb(var(--global-color-submenu));">&nbsp;</td>
+      </tr>
+      <tr>
+         <td>Misc</td>
+         <td>SubMenu Active</td>
+         <td>rgb(131, 124,124)</td>
+         <td style="width:40px;background-color: rgb(var(--global-color-submenu-active));">&nbsp;</td>
       </tr>
    </tbody>
 </table>
