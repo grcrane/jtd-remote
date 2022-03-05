@@ -44,7 +44,7 @@ div.table-wrapper {
    <thead>
       <tr class="tableTop">
       	<th style="width: 30px;">Type</th>
-         <th style="width:120px;">Museum</th>
+         <th style="width:120px;">Name</th>
          <th>RGB Color</th>
          <th>Sample</th>
       </tr>
