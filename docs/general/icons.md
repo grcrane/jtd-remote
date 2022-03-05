@@ -15,8 +15,7 @@ The following table shows the icons used.
 	}
 	td.iconImage img {
 		width: 150px;
-		height: 100px;
-		object-fit: cover;
+		height: auto;
 	}
 </style>
 
