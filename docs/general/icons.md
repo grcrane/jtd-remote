@@ -30,14 +30,14 @@ The following table shows the icons used.
    </thead>
    <tbody>
    		<tr>
-   		 <td>Icon</td>Unity In Learning<br><a href="../../assets/images/icon_unity_full.png" target="_blank">(large)</a>
+   		 <td>Icon</td>
+   		 <td>Unity In Learning<br><a href="../../assets/images/icon_unity_full.png" target="_blank">(large)</a>
          	<a href="../../assets/images/icon_unity_300w.png" target="_blank">&nbsp;(small)</a>
          </td>
          <td class="iconImage">
          	<img src="../../assets/images/icon_unity_full.png">
          </td>
       </tr>
-
       <tr>
    		 <td>Icon</td>
          <td>Ann Arbor Hands-On Museum<br><a href="../../assets/images/icon_aahom_full.png" target="_blank">(large)</a>
