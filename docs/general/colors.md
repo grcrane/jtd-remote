@@ -29,6 +29,7 @@ The following table shows the standard color schemes used throughout the site.  
 	--global-color-challenger: 237,159,33;
 	--global-color-experience: 248,197,21;
 }
+/*
 table.minimal {
 	min-width:  unset;
 	width:  auto;
@@ -38,6 +39,7 @@ div.table-wrapper {
 	width:  auto;
 	box-shadow:  unset;
 }
+*/
 </style>
 
 <table class="minimal">
