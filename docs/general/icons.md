@@ -10,7 +10,7 @@ description: "Icons and Images"
 The following table shows the icons used.  
 
 <style>
-	td.imageIcon {
+	td.iconImage {
 		text-align:  center;
 	}
 	td.iconImage img {
