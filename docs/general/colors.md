@@ -51,7 +51,7 @@ div.table-wrapper {
    <tbody>
    		<tr>
          <td>unity</td>
-         <td>rgb(64, 77, 92)</td>
+         <td>rgb(64, 77, 92)var(--global-color-unity)</td>
          <td style="width:40px;background-color: rgb(var(--global-color-unity));">&nbsp;</td>
       </tr>
       <tr>
