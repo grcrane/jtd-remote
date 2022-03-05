@@ -9,9 +9,14 @@ description: "Colors"
 ### Standard Colors
 
 <style>
-	div.table-wrapper {
+	table.minimal {
 		min-width:  unset;
 		width:  auto;
+	}
+	div.table-wrapper {
+		max-width:  unset;
+		width:  auto;
+		box-shadow:  unset;
 	}
 </style>
 
