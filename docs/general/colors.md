@@ -100,7 +100,7 @@ div.table-wrapper {
       </tr>
       <tr>
       	<td>Misc</td>
-         <td>Section background</td>
+         <td>Page section background</td>
          <td>rgba(224, 224, 219,.05)</td>
          <td style="width:40px;background-color: rgb(var(--global-color-section),.05);">&nbsp;</td>
       </tr>
