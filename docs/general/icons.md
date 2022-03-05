@@ -7,7 +7,7 @@ description: "Icons and Images"
 ---
 
 ### Icons
-The following table shows the icons used.  
+The following table shows the icons used. The icons have been saved in two sizes, (1) large - the full size of original image; (2) small - saved as 300px width.  The small version is the one used in most references on the web site.  
 
 <style>
 	td.iconImage {
