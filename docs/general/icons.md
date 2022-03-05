@@ -25,7 +25,7 @@ The following table shows the icons used.
       <tr class="tableTop">
       	<th style="width: 30px;">Type</th>
          <th>Name</th>
-         <th>Display</th>
+         <th>Image</th>
       </tr>
    </thead>
    <tbody>
