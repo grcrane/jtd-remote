@@ -9,6 +9,14 @@ description: "Icons and Images"
 ### Icons
 The following table shows the icons used.  
 
+<style>
+	td.iconImage img {
+		width: 150px;
+		height: 100px;
+		object-fit: cover;
+	}
+</style>
+
 <table class="minimal">
    <thead>
       <tr class="tableTop">
@@ -22,7 +30,7 @@ The following table shows the icons used.
    		 <td>Icon</td>
          <td>Unity in Learning</td>
          <td class="iconImage">
-         	![Alt aahom](../../assets/images/icon_aahom_full.png "aahom")
+         	<img href="../../assets/images/icon_aahom_full.png">
          </td>
       </tr>
    </tbody>
