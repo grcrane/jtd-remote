@@ -31,8 +31,8 @@ The following table shows the icons used.
    <tbody>
    		<tr>
    		 <td>Icon</td>
-         <td><a href="../../assets/images/icon_aahom_full.png" target="_blank">Unity in Learning (large)</a><br>
-         	<a href="../../assets/images/icon_aahom_300w.png" target="_blank">Unity in Learning (small)</a>
+         <td><a href="../../assets/images/icon_aahom_full.png" target="_blank">Ann Arbor Hands-On (large)</a>
+         	<a href="../../assets/images/icon_aahom_300w.png" target="_blank">&nbsp;(small)</a>
          </td>
          <td class="iconImage">
          	<img src="../../assets/images/icon_aahom_full.png">
