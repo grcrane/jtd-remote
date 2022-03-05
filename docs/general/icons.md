@@ -31,7 +31,7 @@ The following table shows the icons used.
    <tbody>
    		<tr>
    		 <td>Icon</td>
-         <td>Ann Arbor Hands-On<a href="../../assets/images/icon_aahom_full.png" target="_blank">&nbsp;(large)</a>
+         <td>Ann Arbor Hands-On Museum<br><a href="../../assets/images/icon_aahom_full.png" target="_blank">(large)</a>
          	<a href="../../assets/images/icon_aahom_300w.png" target="_blank">&nbsp;(small)</a>
          </td>
          <td class="iconImage">
