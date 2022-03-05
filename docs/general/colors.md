@@ -8,7 +8,7 @@ description: "Colors"
 
 ### Standard Colors
 
-<table class="ws-table-all notranslate slim">
+<table class="">
    <thead>
       <tr class="tableTop">
          <th style="width:120px">Museum</th>
