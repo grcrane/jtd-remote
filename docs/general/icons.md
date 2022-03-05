@@ -30,7 +30,7 @@ The following table shows the icons used.
    		 <td>Icon</td>
          <td>Unity in Learning</td>
          <td class="iconImage">
-         	<img href="../../assets/images/icon_aahom_full.png">
+         	<img src="../../assets/images/icon_aahom_full.png">
          </td>
       </tr>
    </tbody>
