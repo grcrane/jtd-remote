@@ -11,7 +11,7 @@ The following table shows the standard color schemes used throughout the site.  
 
 ```
 :root { 
-    --global-color-unity: 64, 77, 92;
+    --global-color-unity: 77, 54, 59;
     --global-color-aahom: 60,100,168;
     --global-color-leslie: 109,143,60;
     --global-color-yankee: 237,27,48;
