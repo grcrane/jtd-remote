@@ -14,7 +14,7 @@ The following table shows the icons used.
 		text-align:  center;
 	}
 	td.iconImage img {
-		width: 150px;
+		width: 250px;
 		height: auto;
 	}
 </style>
