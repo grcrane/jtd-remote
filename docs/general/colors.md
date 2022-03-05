@@ -17,6 +17,8 @@ The following table shows the standard color schemes used throughout the site.  
     --global-color-yankee: 237,27,48;
     --global-color-challenger: 237,159,33;
     --global-color-experience: 248,197,21;
+    --global-color-links: 0, 0, 255
+    --global-color-section: 224, 224, 219;
 }
 ```
 
@@ -28,6 +30,8 @@ The following table shows the standard color schemes used throughout the site.  
 	--global-color-yankee: 237,27,48;
 	--global-color-challenger: 237,159,33;
 	--global-color-experience: 248,197,21;
+	--global-color-links: 0, 0, 255;
+	--global-color-section: 224, 224, 219;
 }
 /*
 table.minimal {
@@ -87,6 +91,18 @@ div.table-wrapper {
          <td>Experience Center</td>
          <td>rgb(248,197,21)</td>
          <td style="width:40px;background-color: rgb(var(--global-color-experience));">&nbsp;</td>
+      </tr>
+      <tr>
+      	<td>Misc</td>
+         <td>Anchor Links</td>
+         <td>rgb(0, 0, 255)</td>
+         <td style="width:40px;background-color: rgb(var(--global-color-links));">&nbsp;</td>
+      </tr>
+      <tr>
+      	<td>Misc</td>
+         <td>Section background</td>
+         <td>rgb(224, 224, 219)</td>
+         <td style="width:40px;background-color: rgb(var(--global-color-section));">&nbsp;</td>
       </tr>
    </tbody>
 </table>
