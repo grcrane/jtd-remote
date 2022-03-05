@@ -46,5 +46,42 @@ The following table shows the icons used.
          	<img src="../../assets/images/icon_aahom_full.png">
          </td>
       </tr>
+      <tr>
+   		 <td>Icon</td>
+         <td>Leslie Science & Nature Center<br><a href="../../assets/images/icon_leslie_full.png" target="_blank">(large)</a>
+         	<a href="../../assets/images/icon_leslie_300w.png" target="_blank">&nbsp;(small)</a>
+         </td>
+         <td class="iconImage">
+         	<img src="../../assets/images/icon_leslie_full.png">
+         </td>
+      </tr>
+      <tr>
+   		 <td>Icon</td>
+         <td>Yankee Air Museum<br><a href="../../assets/images/icon_yankee_full.png" target="_blank">(large)</a>
+         	<a href="../../assets/images/icon_yankee_300w.png" target="_blank">&nbsp;(small)</a>
+         </td>
+         <td class="iconImage">
+         	<img src="../../assets/images/icon_yankee_full.png">
+         </td>
+      </tr>
+      <tr>
+   		 <td>Icon</td>
+         <td>Challenger Center<br><a href="../../assets/images/icon_challenger_full.png" target="_blank">(large)</a>
+         	<a href="../../assets/images/icon_challenger_300w.png" target="_blank">&nbsp;(small)</a>
+         </td>
+         <td class="iconImage">
+         	<img src="../../assets/images/icon_challenger_full.png">
+         </td>
+      </tr>
+      <tr>
+   		 <td>Icon</td>
+         <td>Experience Center<br><a href="../../assets/images/icon_experience_full.png" target="_blank">(large)</a>
+         	<a href="../../assets/images/icon_experience_300w.png" target="_blank">&nbsp;(small)</a>
+         </td>
+         <td class="iconImage">
+         	<img src="../../assets/images/icon_experience_full.png">
+         </td>
+      </tr>
+
    </tbody>
 </table>
