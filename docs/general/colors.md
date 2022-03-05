@@ -8,7 +8,14 @@ description: "Colors"
 
 ### Standard Colors
 
-<table class="">
+<style>
+	div.table-wrapper {
+		min-width:  unset;
+		width:  auto;
+	}
+</style>
+
+<table class="minimal">
    <thead>
       <tr class="tableTop">
          <th style="width:120px">Museum</th>
