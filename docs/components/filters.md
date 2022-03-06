@@ -9,9 +9,9 @@ nav_order: 15
 
 Filter summary blocks based on assigned categories.  The summary block filter function is one of the mmore complex components available.  It is important to understand how it works.  When envoked, the function looks at two sources of information. 
 
-1 A Google spreadsheet that contains valid categories for each grouping requested.  
-2 It will look at the generated summary block blog items and pick out the assigned categories for each blog item.  
-3 It will then build a list of check boxes (or radio buttons) based on the categories in blog items which match categories found in the spreadsheet.    
+1. A Google spreadsheet that contains valid categories for each grouping requested.  
+2. It will look at the generated summary block blog items and pick out the assigned categories for each blog item.  
+3. It will then build a list of check boxes (or radio buttons) based on the categories in blog items which match categories found in the spreadsheet.    
 
 ***Cook book to create a carousel summary block***
 - Edit the page
