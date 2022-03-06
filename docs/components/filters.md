@@ -13,7 +13,7 @@ Filter summary blocks based on assigned categories.  The summary block filter fu
 2. It will look at the generated summary block blog items and pick out the assigned categories for each blog item.  
 3. It will then build a list of check boxes (or radio buttons) based on the categories in blog items which match categories found in the spreadsheet.    
 
-***Cook book to create a carousel summary block***
+***Cook book to create a summary block***
 - Edit the page
 - Click the "+" sign where you want the carousel to appear
 - Select **Summary Block**
@@ -49,7 +49,7 @@ Filter summary blocks based on assigned categories.  The summary block filter fu
 - Paste the following code block
 - Adust parameters as needed
 
-**Code block for calendar of events**
+**Code block for Summary Block Filter**
 ```
 <script>
 $(document).ready(function () {
@@ -124,7 +124,7 @@ None
     </tr>
     <tr>
       <td>Link</td>
-      <td><a href="https://docs.google.com/spreadsheets/d/1qrUPQu2qs8eOOi-yZwvzOuGseDFjkvj5_mSnoz0tJVc/edit#gid=0" target="_blank">Google Calendar Spreadsheet</a></td>
+      <td><a href="https://docs.google.com/spreadsheets/d/1qrUPQu2qs8eOOi-yZwvzOuGseDFjkvj5_mSnoz0tJVc/edit#gid=0" target="_blank">Google Categories Spreadsheet</a></td>
     </tr>
     <tr>
       <td>ID</td>
