@@ -7,7 +7,11 @@ nav_order: 15
 
 ### Filter Checkboxes
 
-Filter summary blocks based on assigned categories.   
+Filter summary blocks based on assigned categories.  The summary block filter function is one of the mmore complex components available.  It is important to understand how it works.  When envoked, the function looks at two sources of information. 
+
+- 1 A Google spreadsheet that contains valid categories for each grouping requested.  
+- 2 It will look at the generated summary block blog items and pick out the assigned categories for each blog item.  
+- 3 It will then build a list of check boxes (or radio buttons) based on the categories in blog items which match categories found in the spreadsheet.    
 
 ***Cook book to create a carousel summary block***
 - Edit the page
@@ -19,13 +23,13 @@ Filter summary blocks based on assigned categories.
 	- Secondary Metadata: **Category**
 	- Filter Items: If needed
 - Under ***Design*** 
-	- Select **Grid**
+	- Select Grid
 	- Number of items: 30 (max)
 	- Aspect Ratio: 3:2 Standard
-	- TEXT M, Left adjusted
-	- Title: **checked**
-	- Featured Image: **checked**
-	- Ecerpt: **checked**
+	- TEXT Middle, Left adjusted
+	- Title: checked
+	- Featured Image: checked
+	- Excerpt: checked
 	- Read More Link: **checked**
 	- Set Read more link text: Leave alone
 	- Metadata Postion: Below Content
@@ -60,7 +64,7 @@ The above example has 2 groups, comma separated, of category selections.
 
 - grades: will be a group of grades checkboxes, labeled "Grades".  
 - outreach: will be a group of outreach checkboxes with the label "Outreach". 
- 
+
 **Overrides:**
 
 None
@@ -97,3 +101,75 @@ None
 **Return Value:**
 
 None
+
+**Google Spreadsheet:**
+
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+     <td style="width:120px">Detail</td>
+     <td>Description</td>
+    </tr>
+    <tr>
+      <td>Owner</td>
+      <td>grcrane319@gmail.com</td>
+    </tr>
+    <tr>
+      <td>File Name</td>
+      <td>Categories</td>
+    </tr>
+    <tr>
+      <td>Folder</td>
+      <td><a href="https://drive.google.com/drive/folders/1qUS2VmnnptahqFDF0worIZhms3OS0TNr" target="_blank">aahom</a></td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td><a href="https://docs.google.com/spreadsheets/d/1qrUPQu2qs8eOOi-yZwvzOuGseDFjkvj5_mSnoz0tJVc/edit#gid=0" target="_blank">Google Calendar Spreadsheet</a></td>
+    </tr>
+    <tr>
+      <td>ID</td>
+      <td>1qrUPQu2qs8eOOi-yZwvzOuGseDFjkvj5_mSnoz0tJVc</td>
+    </tr>
+    <tr>
+      <td>Sheet Name</td>
+      <td>Categories</td>
+    </tr>
+  </tbody>
+</table>
+
+**Spreadsheet Fields**
+
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+    <td style="width:20px">Column</td>
+    <td style="width:120px">Label</td>
+    <td>Description</td>
+    </tr>
+    <tr>
+    <td>A</td>
+    <td>Group</td>
+    <td>The group this category is assigned to</td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td>Sequence</td>
+    <td>The ordering of this category within the group</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>Category</td>
+    <td>The category abbreviated name</td>
+  </tr>
+  <tr>
+    <td>D</td>
+    <td>Label</td>
+    <td>The label, or long category name</td>
+    </tr>
+    <tr>
+    <td>E</td>
+    <td>Hide</td>
+    <td>Hide=Yes will ignore this category</td>
+    </tr>
+  </tbody>
+</table>
