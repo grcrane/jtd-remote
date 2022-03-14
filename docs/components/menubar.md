@@ -7,4 +7,58 @@ nav_order: 18
 
 ### Menu Bar
 
-Menu bar for sub-menu items
+Menu bar for sub-menu items.  These are found on the "Learn" pages to help navigation between learn pages.  On mobile devices the menu is an wrapped in an accordion and compressed by default to save some space. 
+
+***Cook book***
+- Edit the page
+- Click a "+" sign where you want to insert 
+- Select "Code"
+- Paste the following code block
+- Adust parameters as needed
+
+```
+<script> 
+$(document).ready(function() {
+   subMenuBar('adventure');
+});
+</script>
+<div id="subMenu"></div>
+```
+
+**Usage:**
+
+*subMenuBar(Active, SelectorID)*
+
+**Parameters:**
+
+<table class="ws-table-all notranslate"> 
+  <tbody>
+    <tr class="tableTop">
+     <td style="width:120px">Parameter</td>
+     <td>Description</td>
+    </tr>
+    <tr>
+      <td><em>Active</em></td>
+      <td>Optional.<br>the active button choice
+      	<ul>
+      		<li>adventure</li>
+      		<li>birthdays</li>
+      		<li>camp</li>
+      		<li>outreach</li>
+      		<li>field</li>
+      		<li>distance</li>
+      	</ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      	SelectorID
+      </td>
+      <td>The selector to contain the menu bar, the defaults to "#subMenu".
+      </td>
+  </tbody>
+</table>
+
+**Return Value:**
+
+None
