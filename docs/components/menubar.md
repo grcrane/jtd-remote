@@ -19,7 +19,7 @@ Menu bar for sub-menu items.  These are found on the "Learn" pages to help navig
 ```
 <script> 
 $(document).ready(function() {
-   subMenuBar('adventure');
+   subMenuBar('#subMenu','adventure');
 });
 </script>
 <div id="subMenu"></div>
@@ -27,7 +27,7 @@ $(document).ready(function() {
 
 **Usage:**
 
-*subMenuBar(Active, SelectorID)*
+*subMenuBar(SelectorID, Active)*
 
 **Parameters:**
 
@@ -36,6 +36,13 @@ $(document).ready(function() {
     <tr class="tableTop">
      <td style="width:120px">Parameter</td>
      <td>Description</td>
+    </tr>
+    <tr>
+      <td>
+        SelectorID
+      </td>
+      <td>The selector to contain the menu bar (defaults = '#subMenu').
+      </td>
     </tr>
     <tr>
       <td><em>Active</em></td>
@@ -50,13 +57,7 @@ $(document).ready(function() {
       	</ul>
       </td>
     </tr>
-    <tr>
-      <td>
-      	SelectorID
-      </td>
-      <td>The selector to contain the menu bar (defaults = '#subMenu').
-      </td>
-    </tr>
+    
   </tbody>
 </table>
 
