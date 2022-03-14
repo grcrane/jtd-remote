@@ -41,12 +41,12 @@ $(document).ready(function() {
       <td>
         SelectorID
       </td>
-      <td>The selector to contain the menu bar (defaults = '#subMenu').
+      <td>Required.  The selector to contain the menu bar (default = '#subMenu').
       </td>
     </tr>
     <tr>
       <td><em>Active</em></td>
-      <td>Optional.<br>The active button choice
+      <td>Optional. (default = '')<br>The active button choice
       	<ul>
       		<li>adventure</li>
       		<li>birthdays</li>
