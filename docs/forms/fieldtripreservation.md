@@ -8,9 +8,13 @@ nav_order: 5
 
 ### Field Trip Reservation Form (AAHOM)
 
+Note: 
 
-<iframe
-id="JotFormIFrame-220716004922042"
+1 Validation is not enabled on this form.   
+2 Intended page breaks points are labeled within form.  
+
+
+<iframe id="JotFormIFrame-220716004922042"
 title="AAHOM Field Trip Reservation"
 onload="window.parent.scrollTo(0,0)"
 allowtransparency="true"
@@ -22,8 +26,7 @@ style="
 min-width: 100%;
 height:539px;
 border:none;"
-scrolling="no"
->
+scrolling="no">
 </iframe>
 <script type="text/javascript">
 var ifr = document.getElementById("JotFormIFrame-220716004922042");
