@@ -29,7 +29,7 @@ $( document ).ready(function() {
 </script>
 ```
 
-**Home page footer section**
+**Any page footer section**
 
 ***Cookbook***
 - Edit any page
