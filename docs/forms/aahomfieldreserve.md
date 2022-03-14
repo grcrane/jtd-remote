@@ -7,7 +7,7 @@ nav_order: 1
 
 ### Field Trip Reservation Form (AAHOM)
 
-*Note:* To get a printed copy of this form, 
+<p>*Note:* To get a printed copy of this form, </p>
 
 - Open with one of the links below
 - Scroll to the bottom of the form
