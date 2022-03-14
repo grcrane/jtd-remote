@@ -56,6 +56,7 @@ $(document).ready(function() {
       </td>
       <td>The selector to contain the menu bar (defaults = '#subMenu').
       </td>
+    </tr>
   </tbody>
 </table>
 
