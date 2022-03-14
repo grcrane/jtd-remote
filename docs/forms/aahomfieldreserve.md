@@ -7,11 +7,11 @@ nav_order: 1
 
 ### Field Trip Reservation Form (AAHOM)
 
-**Open in new browser tab**
-
 [Open in new browser tab](https://form.jotform.com/220716004922042){:target="_blank"}
 
   <a href="javascript:void( window.open( 'https://form.jotform.com/220716004922042', 'blank', 'scrollbars=yes, toolbar=no, width=700, height=500' ) ) "> Open in pop-up window </a>
+
+<hr>
 
  **Screenshot of top part**
 
