@@ -6,14 +6,106 @@ grand_parent: Forms
 nav_order: 5
 ---
 
-### Field Trip Reservation Form
+### Field Trip Reservation Form (AAHOM)
 
-<br>
-***Intro message***
 
-Fill out the form below to start your registration for a Field Trip to the Ann Arbor Hands-On Museum. Online registration for Outreach and Distance Learning programs is coming soon.
+    <iframe
+      id="JotFormIFrame-220716004922042"
+      title="AAHOM Field Trip Reservation"
+      onload="window.parent.scrollTo(0,0)"
+      allowtransparency="true"
+      allowfullscreen="true"
+      allow="geolocation; microphone; camera"
+      src="https://form.jotform.com/220716004922042"
+      frameborder="0"
+      style="
+      min-width: 100%;
+      height:539px;
+      border:none;"
+      scrolling="no"
+    >
+    </iframe>
+    <script type="text/javascript">
+      var ifr = document.getElementById("JotFormIFrame-220716004922042");
+      if (ifr) {
+        var src = ifr.src;
+        var iframeParams = [];
+        if (window.location.href && window.location.href.indexOf("?") > -1) {
+          iframeParams = iframeParams.concat(window.location.href.substr(window.location.href.indexOf("?") + 1).split('&'));
+        }
+        if (src && src.indexOf("?") > -1) {
+          iframeParams = iframeParams.concat(src.substr(src.indexOf("?") + 1).split("&"));
+          src = src.substr(0, src.indexOf("?"))
+        }
+        iframeParams.push("isIframeEmbed=1");
+        ifr.src = src + "?" + iframeParams.join('&');
+      }
+      window.handleIFrameMessage = function(e) {
+        if (typeof e.data === 'object') { return; }
+        var args = e.data.split(":");
+        if (args.length > 2) { iframe = document.getElementById("JotFormIFrame-" + args[(args.length - 1)]); } else { iframe = document.getElementById("JotFormIFrame"); }
+        if (!iframe) { return; }
+        switch (args[0]) {
+          case "scrollIntoView":
+            iframe.scrollIntoView();
+            break;
+          case "setHeight":
+            iframe.style.height = args[1] + "px";
+            break;
+          case "collapseErrorPage":
+            if (iframe.clientHeight > window.innerHeight) {
+              iframe.style.height = window.innerHeight + "px";
+            }
+            break;
+          case "reloadPage":
+            window.location.reload();
+            break;
+          case "loadScript":
+            if( !window.isPermitted(e.origin, ['jotform.com', 'jotform.pro']) ) { break; }
+            var src = args[1];
+            if (args.length > 3) {
+                src = args[1] + ':' + args[2];
+            }
+            var script = document.createElement('script');
+            script.src = src;
+            script.type = 'text/javascript';
+            document.body.appendChild(script);
+            break;
+          case "exitFullscreen":
+            if      (window.document.exitFullscreen)        window.document.exitFullscreen();
+            else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();
+            else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();
+            else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();
+            else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();
+            break;
+        }
+        var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
+        if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
+          var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)};
+          iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*");
+        }
+      };
+      window.isPermitted = function(originUrl, whitelisted_domains) {
+        var url = document.createElement('a');
+        url.href = originUrl;
+        var hostname = url.hostname;
+        var result = false;
+        if( typeof hostname !== 'undefined' ) {
+          whitelisted_domains.forEach(function(element) {
+              if( hostname.slice((-1 * element.length - 1)) === '.'.concat(element) ||  hostname === element ) {
+                  result = true;
+              }
+          });
+          return result;
+        }
+      };
+      if (window.addEventListener) {
+        window.addEventListener("message", handleIFrameMessage, false);
+      } else if (window.attachEvent) {
+        window.attachEvent("onmessage", handleIFrameMessage);
+      }
+      </script>
 
-Plan an adventure with your students where knowledge is your destination. Students of all ages can explore over 250 interactive science and technology exhibits. Extend your hands-on adventure by booking a ScienceWorks lab. All programs align with Michigan’s Grade Level Content Expectations.
 
 **Form on AAHOM website**
 
