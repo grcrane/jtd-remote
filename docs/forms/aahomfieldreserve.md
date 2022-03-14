@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Field Trip
-parent: AAHOM Forms
-grand_parent: Forms
-nav_order: 5
+parent: Forms
+nav_order: 1
 ---
 
 ### Field Trip Reservation Form (AAHOM)

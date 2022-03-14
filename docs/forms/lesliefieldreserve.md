@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Leslie Field Trip
-parent: Leslie Forms
-grand_parent: Forms
-nav_order: 5
+parent: Forms
+nav_order: 2
 ---
 
 ### Field Trip Reservation Form (Leslie)
