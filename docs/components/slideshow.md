@@ -40,7 +40,6 @@ adapt the instructions accordingly.
 **Code block for page header slideshow**
 ```
 <script>
-<script>
 $( document ).ready(function() {
     doGalleryShow();
 })
