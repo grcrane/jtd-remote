@@ -11,7 +11,8 @@ Filter summary blocks based on assigned categories.  The summary block filter fu
 
 1. A Google spreadsheet that contains valid categories for each grouping requested.  
 2. It will look at the generated summary block blog items and pick out the assigned categories for each blog item.  
-3. It will then build a list of check boxes (or radio buttons) based on the categories in blog items which match categories found in the spreadsheet.    
+3. It will then build a list of check boxes (or radio buttons) based on the categories in blog items which match categories found in the spreadsheet.
+4. Then it builds html code flex boxes to display a thumbnail, title, excerpt and categories for each item in the blog/event.     
 
 ***Cook book to create a summary block***
 - Edit the page
